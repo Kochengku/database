@@ -24,7 +24,7 @@
       "money": 0,
       "limitchat": 28,
       "stamina": 0,
-      "exp": 631
+      "exp": 685
     },
     "6283832848100@s.whatsapp.net": {
       "regTime": -1,
@@ -52,6 +52,33 @@
       "stamina": 0,
       "exp": 66,
       "name": "rèii"
+    },
+    "628974608495@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 1,
+      "membershipTime": 0,
+      "registered": true,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 23,
+      "stamina": 0,
+      "exp": 182,
+      "name": "rapiiuww"
     }
   },
   "chats": {
@@ -186,20 +213,32 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "628974608495@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 25,
-      "success": 23,
-      "last": 1736986362938,
-      "lastSuccess": 1736986362938
+      "total": 32,
+      "success": 30,
+      "last": 1737003178703,
+      "lastSuccess": 1737003178703
     },
     "other-rpg_register.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1736655204569,
-      "lastSuccess": 1736655204569
+      "total": 5,
+      "success": 5,
+      "last": 1737003057060,
+      "lastSuccess": 1737003057060
     }
   },
   "msgs": {},
