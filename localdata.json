@@ -24,7 +24,7 @@
       "money": 0,
       "limitchat": 28,
       "stamina": 0,
-      "exp": 628
+      "exp": 631
     },
     "6283832848100@s.whatsapp.net": {
       "regTime": -1,
@@ -52,6 +52,33 @@
       "stamina": 0,
       "exp": 66,
       "name": "rèii"
+    },
+    "6281775155057@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 10,
+      "name": "Developer"
     }
   },
   "chats": {
@@ -190,10 +217,10 @@
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 24,
-      "success": 22,
-      "last": 1736928133807,
-      "lastSuccess": 1736928133807
+      "total": 25,
+      "success": 23,
+      "last": 1736986362938,
+      "lastSuccess": 1736986362938
     },
     "other-rpg_register.js": {
       "total": 4,
