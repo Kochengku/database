@@ -9,8 +9,34 @@
       "codemail": "",
       "email": "",
       "password": "",
-      "listfeature": [],
+      "listfeature": "",
       "datamail": [],
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 23
+    },
+    "6289681300660@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 1,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
       "statustrx": "",
       "idtrx": "",
       "jenisbarang": "",
@@ -24,13 +50,14 @@
       "money": 0,
       "limitchat": 28,
       "stamina": 0,
-      "exp": 794
+      "exp": 24,
+      "name": "Real Akun Fufufafa"
     },
-    "6283832848100@s.whatsapp.net": {
+    "6287855953369@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
-      "registered": true,
+      "registered": false,
       "membership": false,
       "codemail": "",
       "email": "",
@@ -48,52 +75,12 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 26,
+      "limitchat": 30,
       "stamina": 0,
-      "exp": 66,
-      "name": "rèii"
-    },
-    "628974608495@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 1,
-      "membershipTime": 0,
-      "registered": true,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 23,
-      "stamina": 0,
-      "exp": 182,
-      "name": "rapiiuww"
+      "exp": 2
     }
   },
   "chats": {
-    "6285972560574@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
     "62895387699993@s.whatsapp.net": {
       "isBanned": false,
       "detect": false,
@@ -106,7 +93,7 @@
       "antiToxic": false,
       "expired": 0
     },
-    "6281775155057@s.whatsapp.net": {
+    "6289681300660@s.whatsapp.net": {
       "isBanned": false,
       "detect": false,
       "adonly": false,
@@ -118,103 +105,7 @@
       "antiToxic": false,
       "expired": 0
     },
-    "status@broadcast": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6283832848100@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "120363356317119588@g.us": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6288991662120@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "120363083909455879@g.us": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6283176331401@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6289602933121@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6281563468361@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "628974608495@s.whatsapp.net": {
+    "6287855953369@s.whatsapp.net": {
       "isBanned": false,
       "detect": false,
       "adonly": false,
@@ -229,22 +120,10 @@
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 32,
-      "success": 30,
-      "last": 1737003178703,
-      "lastSuccess": 1737003178703
-    },
-    "other-rpg_register.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1737003057060,
-      "lastSuccess": 1737003057060
-    },
-    "tc.js": {
-      "total": 16,
-      "success": 16,
-      "last": 1737122282853,
-      "lastSuccess": 1737122282853
+      "total": 3,
+      "success": 3,
+      "last": 1737194198520,
+      "lastSuccess": 1737194198520
     }
   },
   "msgs": {},
