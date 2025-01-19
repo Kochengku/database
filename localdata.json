@@ -24,7 +24,34 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 33
+      "exp": 91
+    },
+    "6281775155057@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 72,
+      "name": "Dodolz"
     }
   },
   "chats": {
@@ -97,10 +124,10 @@
       "lastSuccess": 1737194198520
     },
     "tc.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1737205893109,
-      "lastSuccess": 1737205893109
+      "total": 13,
+      "success": 13,
+      "last": 1737248109241,
+      "lastSuccess": 1737248109241
     }
   },
   "msgs": {},
