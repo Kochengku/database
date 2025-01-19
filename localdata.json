@@ -10,7 +10,18 @@
       "email": "",
       "password": "",
       "listfeature": [],
-      "datamail": [],
+      "datamail": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "2",
+        "kentukimeme@gmail.com",
+        "2"
+      ],
       "statustrx": "",
       "idtrx": "",
       "jenisbarang": "",
@@ -24,13 +35,40 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 128
+      "exp": 466
     },
     "6281775155057@s.whatsapp.net": {
+      "regTime": 0,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "529317",
+      "email": "2",
+      "password": "529317",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 0,
+      "stamina": 0,
+      "exp": 35,
+      "name": ""
+    },
+    "6285890245811@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
-      "registered": true,
+      "registered": false,
       "membership": false,
       "codemail": "",
       "email": "",
@@ -39,19 +77,44 @@
       "datamail": "",
       "statustrx": "",
       "idtrx": "",
-      "jenisbarang": "Sewa bot (2 day)",
+      "jenisbarang": "",
       "urltrx": "",
-      "masasewa": 2,
+      "masasewa": 0,
       "lasttrx": 0,
-      "hargabarang": 2000,
+      "hargabarang": 0,
       "featureerror": 0,
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 72,
-      "name": "Dodolz"
+      "exp": 10
+    },
+    "6285972560574@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 10
     }
   },
   "chats": {
@@ -126,6 +189,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 1737431372386
+    },
+    "6285972560574@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -148,10 +223,16 @@
       "lastSuccess": 1737258517183
     },
     "other-rpg_register.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1737258508395,
-      "lastSuccess": 1737258508395
+      "total": 22,
+      "success": 22,
+      "last": 1737282034252,
+      "lastSuccess": 1737282034252
+    },
+    "other-owner_exec.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1737281883455,
+      "lastSuccess": 1737281883455
     }
   },
   "msgs": {},
