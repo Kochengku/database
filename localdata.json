@@ -1,10 +1,10 @@
 {
   "users": {
     "6281775155057@s.whatsapp.net": {
-      "regTime": -1,
+      "regTime": 0,
       "notregis": 0,
       "membershipTime": 0,
-      "registered": true,
+      "registered": false,
       "membership": false,
       "codemail": "",
       "email": "kentukimeme@gmail.com",
@@ -22,10 +22,10 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 28,
+      "limitchat": 0,
       "stamina": 0,
-      "exp": 148,
-      "name": "DodolzYgyz"
+      "exp": 9,
+      "name": ""
     },
     "62895387699993@s.whatsapp.net": {
       "regTime": -1,
@@ -53,7 +53,88 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 316
+      "exp": 419
+    },
+    "62895801869050@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 37,
+      "name": "Zenz"
+    },
+    "6288991662120@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 20,
+      "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
+    },
+    "6285351391935@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": true,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 31,
+      "name": "eyinn"
     }
   },
   "chats": {
@@ -75,7 +156,7 @@
       "adonly": false,
       "welcome": false,
       "rpg": false,
-      "antiLinkRendah": false,
+      "antiLinkRendah": true,
       "antiLinkSedang": false,
       "antiLinkTinggi": false,
       "antiToxic": false,
@@ -90,16 +171,22 @@
       "lastSuccess": 1737303022747
     },
     "other-rpg_register.js": {
-      "total": 26,
-      "success": 26,
-      "last": 1737295299943,
-      "lastSuccess": 1737295299943
+      "total": 31,
+      "success": 31,
+      "last": 1737330233661,
+      "lastSuccess": 1737330233661
     },
     "tool-upload.js": {
       "total": 6,
       "success": 6,
       "last": 1737302950513,
       "lastSuccess": 1737302950513
+    },
+    "other-group_enable.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1737327765946,
+      "lastSuccess": 1737327765946
     }
   },
   "msgs": {},
