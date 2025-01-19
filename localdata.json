@@ -9,7 +9,7 @@
       "codemail": "",
       "email": "",
       "password": "",
-      "listfeature": "",
+      "listfeature": [],
       "datamail": [],
       "statustrx": "",
       "idtrx": "",
@@ -24,13 +24,13 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 91
+      "exp": 128
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
-      "registered": false,
+      "registered": true,
       "membership": false,
       "codemail": "",
       "email": "",
@@ -39,11 +39,11 @@
       "datamail": "",
       "statustrx": "",
       "idtrx": "",
-      "jenisbarang": "",
+      "jenisbarang": "Sewa bot (2 day)",
       "urltrx": "",
-      "masasewa": 0,
+      "masasewa": 2,
       "lasttrx": 0,
-      "hargabarang": 0,
+      "hargabarang": 2000,
       "featureerror": 0,
       "diamond": 0,
       "lastreport": 0,
@@ -114,6 +114,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "120363391436583028@g.us": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 1737431372386
     }
   },
   "stats": {
@@ -124,10 +136,22 @@
       "lastSuccess": 1737194198520
     },
     "tc.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1737248109241,
-      "lastSuccess": 1737248109241
+      "total": 14,
+      "success": 14,
+      "last": 1737258492571,
+      "lastSuccess": 1737258492571
+    },
+    "other-info.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1737258517183,
+      "lastSuccess": 1737258517183
+    },
+    "other-rpg_register.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1737258508395,
+      "lastSuccess": 1737258508395
     }
   },
   "msgs": {},
