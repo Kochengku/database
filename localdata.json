@@ -28,7 +28,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 520
+      "exp": 536
     },
     "6285351391935@s.whatsapp.net": {
       "regTime": -1,
@@ -81,7 +81,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 77,
+      "exp": 37,
       "name": "Dodolz"
     },
     "6285890245811@s.whatsapp.net": {
@@ -108,9 +108,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 3
+      "exp": 2
     },
-    "60134588208@s.whatsapp.net": {
+    "6288991662120@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -134,7 +134,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 4
+      "exp": 6
     }
   },
   "chats": {
@@ -201,10 +201,10 @@
       "lastSuccess": 1737327765946
     },
     "tc.js": {
-      "total": 11,
-      "success": 10,
-      "last": 1737358008724,
-      "lastSuccess": 1737358008724
+      "total": 16,
+      "success": 15,
+      "last": 1737360654968,
+      "lastSuccess": 1737360654968
     }
   },
   "msgs": {},
