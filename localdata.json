@@ -9,7 +9,9 @@
       "codemail": "",
       "email": "",
       "password": "",
-      "listfeature": [],
+      "listfeature": [
+        "tc"
+      ],
       "datamail": [
         "kentukimeme@gmail.com"
       ],
@@ -20,13 +22,13 @@
       "masasewa": 0,
       "lasttrx": 0,
       "hargabarang": 0,
-      "featureerror": 0,
+      "featureerror": 1,
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 434
+      "exp": 520
     },
     "6285351391935@s.whatsapp.net": {
       "regTime": -1,
@@ -54,6 +56,85 @@
       "stamina": 0,
       "exp": 73,
       "name": "eyinn"
+    },
+    "6281775155057@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 77,
+      "name": "Dodolz"
+    },
+    "6285890245811@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 3
+    },
+    "60134588208@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 4
     }
   },
   "chats": {
@@ -80,6 +161,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "62895387699993@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -96,16 +189,22 @@
       "lastSuccess": 1737330233661
     },
     "tool-upload.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1737302950513,
-      "lastSuccess": 1737302950513
+      "total": 9,
+      "success": 9,
+      "last": 1737357630381,
+      "lastSuccess": 1737357630381
     },
     "other-group_enable.js": {
       "total": 5,
       "success": 5,
       "last": 1737327765946,
       "lastSuccess": 1737327765946
+    },
+    "tc.js": {
+      "total": 11,
+      "success": 10,
+      "last": 1737358008724,
+      "lastSuccess": 1737358008724
     }
   },
   "msgs": {},
