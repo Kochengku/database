@@ -28,7 +28,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 769
+      "exp": 807
     },
     "6285351391935@s.whatsapp.net": {
       "regTime": -1,
@@ -57,7 +57,7 @@
       "exp": 73,
       "name": "eyinn"
     },
-    "6285624397146@s.whatsapp.net": {
+    "6281775155057@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -81,7 +81,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2
+      "exp": 41,
+      "name": "Dodolz"
     }
   },
   "chats": {
@@ -136,10 +137,10 @@
       "lastSuccess": 1737330233661
     },
     "tool-upload.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1737455102093,
-      "lastSuccess": 1737455102093
+      "total": 19,
+      "success": 19,
+      "last": 1737469053504,
+      "lastSuccess": 1737469053504
     },
     "other-group_enable.js": {
       "total": 5,
@@ -148,10 +149,10 @@
       "lastSuccess": 1737327765946
     },
     "tc.js": {
-      "total": 37,
-      "success": 34,
-      "last": 1737455161883,
-      "lastSuccess": 1737455161883
+      "total": 44,
+      "success": 41,
+      "last": 1737472662238,
+      "lastSuccess": 1737472662238
     }
   },
   "msgs": {},
