@@ -28,7 +28,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 674
+      "exp": 769
     },
     "6285351391935@s.whatsapp.net": {
       "regTime": -1,
@@ -59,7 +59,7 @@
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
-      "notregis": 0,
+      "notregis": 1,
       "membershipTime": 0,
       "registered": false,
       "membership": false,
@@ -79,9 +79,9 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 30,
+      "limitchat": 28,
       "stamina": 0,
-      "exp": 124,
+      "exp": 67,
       "name": "Dodolz"
     }
   },
@@ -125,10 +125,10 @@
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 10,
-      "success": 8,
-      "last": 1737303022747,
-      "lastSuccess": 1737303022747
+      "total": 13,
+      "success": 11,
+      "last": 1737454058048,
+      "lastSuccess": 1737454058048
     },
     "other-rpg_register.js": {
       "total": 31,
@@ -137,10 +137,10 @@
       "lastSuccess": 1737330233661
     },
     "tool-upload.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1737453241418,
-      "lastSuccess": 1737453241418
+      "total": 17,
+      "success": 17,
+      "last": 1737455102093,
+      "lastSuccess": 1737455102093
     },
     "other-group_enable.js": {
       "total": 5,
@@ -149,10 +149,10 @@
       "lastSuccess": 1737327765946
     },
     "tc.js": {
-      "total": 34,
-      "success": 31,
-      "last": 1737453315852,
-      "lastSuccess": 1737453315852
+      "total": 37,
+      "success": 34,
+      "last": 1737455161883,
+      "lastSuccess": 1737455161883
     }
   },
   "msgs": {},
