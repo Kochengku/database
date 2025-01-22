@@ -30,7 +30,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1593,
+      "exp": 1639,
       "hidename": false,
       "showDash": false,
       "borderurl": ""
@@ -122,7 +122,7 @@
       "money": 1000,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2465,
+      "exp": 2506,
       "name": "LOL"
     },
     "6282118926314@s.whatsapp.net": {
@@ -334,16 +334,16 @@
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 35,
-      "success": 31,
-      "last": 1737553020830,
-      "lastSuccess": 1737553020830
+      "total": 37,
+      "success": 33,
+      "last": 1737587014233,
+      "lastSuccess": 1737587014233
     },
     "other-rpg_register.js": {
-      "total": 127,
-      "success": 99,
-      "last": 1737553048606,
-      "lastSuccess": 1737553048606
+      "total": 131,
+      "success": 100,
+      "last": 1737587036728,
+      "lastSuccess": 1737586999548
     },
     "tool-upload.js": {
       "total": 20,
