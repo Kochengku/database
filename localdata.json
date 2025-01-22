@@ -10,7 +10,8 @@
       "email": "",
       "password": "",
       "listfeature": [
-        "tc"
+        "tc",
+        "profile"
       ],
       "datamail": [
         "kentukimeme@gmail.com"
@@ -22,13 +23,16 @@
       "masasewa": 0,
       "lasttrx": 0,
       "hargabarang": 0,
-      "featureerror": 1,
+      "featureerror": 2,
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 807
+      "exp": 892,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": ""
     },
     "6285351391935@s.whatsapp.net": {
       "regTime": -1,
@@ -56,6 +60,36 @@
       "stamina": 0,
       "exp": 73,
       "name": "eyinn"
+    },
+    "6281775155057@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": true,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 171,
+      "name": "Dodolz"
     }
   },
   "chats": {
@@ -104,10 +138,10 @@
       "lastSuccess": 1737454058048
     },
     "other-rpg_register.js": {
-      "total": 31,
-      "success": 31,
-      "last": 1737330233661,
-      "lastSuccess": 1737330233661
+      "total": 49,
+      "success": 48,
+      "last": 1737531038235,
+      "lastSuccess": 1737531038235
     },
     "tool-upload.js": {
       "total": 19,
@@ -126,6 +160,12 @@
       "success": 41,
       "last": 1737472662238,
       "lastSuccess": 1737472662238
+    },
+    "other-owner_exec.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1737527739106,
+      "lastSuccess": 1737527739106
     }
   },
   "msgs": {},
