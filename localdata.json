@@ -12,7 +12,9 @@
       "codemail": "",
       "email": "",
       "password": "",
-      "listfeature": [],
+      "listfeature": [
+        "yta"
+      ],
       "datamail": [],
       "statustrx": "",
       "idtrx": "",
@@ -21,13 +23,13 @@
       "masasewa": 0,
       "lasttrx": 0,
       "hargabarang": 0,
-      "featureerror": 0,
+      "featureerror": 1,
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 108
+      "exp": 209
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
@@ -54,39 +56,10 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 28,
+      "limitchat": 27,
       "stamina": 0,
-      "exp": 91,
+      "exp": 70,
       "name": "Dodolz"
-    },
-    "6288991662120@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 4
     }
   },
   "chats": {
@@ -129,10 +102,10 @@
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 6,
-      "success": 3,
-      "last": 1737712171609,
-      "lastSuccess": 1737712171609
+      "total": 9,
+      "success": 6,
+      "last": 1737724218243,
+      "lastSuccess": 1737724218243
     },
     "tc.js": {
       "total": 3,
@@ -141,10 +114,10 @@
       "lastSuccess": 1737710345191
     },
     "case-downloader.js": {
-      "total": 11,
-      "success": 8,
-      "last": 1737711933301,
-      "lastSuccess": 1737711933301
+      "total": 17,
+      "success": 9,
+      "last": 1737725560032,
+      "lastSuccess": 1737725150187
     }
   },
   "msgs": {},
