@@ -27,7 +27,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 425
+      "exp": 539
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
@@ -54,10 +54,40 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 29,
+      "limitchat": 25,
       "stamina": 0,
-      "exp": 63,
+      "exp": 90,
       "name": "Dodolz"
+    },
+    "6285873165264@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 14,
+      "name": "6285873165264"
     },
     "6288991662120@s.whatsapp.net": {
       "regTime": -1,
@@ -86,8 +116,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 17,
-      "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
+      "exp": 2
     }
   },
   "chats": {
@@ -150,14 +179,26 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6285873165264@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 10,
-      "success": 7,
-      "last": 1737790874471,
-      "lastSuccess": 1737790874471
+      "total": 15,
+      "success": 12,
+      "last": 1737808820775,
+      "lastSuccess": 1737808820775
     },
     "tc.js": {
       "total": 6,
@@ -184,10 +225,10 @@
       "lastSuccess": 1737789810836
     },
     "other-rpg_register.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1737790289498,
-      "lastSuccess": 1737790289498
+      "total": 6,
+      "success": 6,
+      "last": 1737808802572,
+      "lastSuccess": 1737808802572
     }
   },
   "msgs": {},
