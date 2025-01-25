@@ -27,39 +27,40 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 347
-    },
-    "6285890245811@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 2
+      "exp": 425
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
+      "notregis": 1,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 29,
+      "stamina": 0,
+      "exp": 63,
+      "name": "Dodolz"
+    },
+    "6288991662120@s.whatsapp.net": {
+      "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
       "registered": false,
@@ -85,8 +86,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 46,
-      "name": "Dodolz"
+      "exp": 17,
+      "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
     }
   },
   "chats": {
@@ -96,7 +97,7 @@
       "adonly": false,
       "welcome": false,
       "rpg": false,
-      "antiLinkRendah": false,
+      "antiLinkRendah": true,
       "antiLinkSedang": false,
       "antiLinkTinggi": false,
       "antiToxic": false,
@@ -137,32 +138,56 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "120363391436583028@g.us": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 9,
-      "success": 6,
-      "last": 1737724218243,
-      "lastSuccess": 1737724218243
+      "total": 10,
+      "success": 7,
+      "last": 1737790874471,
+      "lastSuccess": 1737790874471
     },
     "tc.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1737710345191,
-      "lastSuccess": 1737710345191
+      "total": 6,
+      "success": 6,
+      "last": 1737789121178,
+      "lastSuccess": 1737789121178
     },
     "case-downloader.js": {
-      "total": 32,
-      "success": 24,
-      "last": 1737781940414,
-      "lastSuccess": 1737781940414
+      "total": 36,
+      "success": 28,
+      "last": 1737793607786,
+      "lastSuccess": 1737793607786
     },
     "other-owner_exec.js": {
       "total": 8,
       "success": 8,
       "last": 1737760749963,
       "lastSuccess": 1737760749963
+    },
+    "other-group_enable.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1737789810836,
+      "lastSuccess": 1737789810836
+    },
+    "other-rpg_register.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1737790289498,
+      "lastSuccess": 1737790289498
     }
   },
   "msgs": {},
