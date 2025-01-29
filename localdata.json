@@ -1,71 +1,6 @@
 {
   "users": {
-    "62895387699993@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": true,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": [
-        "yts",
-        "ytsearch"
-      ],
-      "datamail": [
-        "2",
-        "kentukimeme@gmail.com"
-      ],
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 2,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 991
-    },
-    "6281775155057@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": true,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
-      "codemail": "",
-      "email": "kentukimeme@gmail.com",
-      "password": "280422",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 450,
-      "name": "Dodolz"
-    },
-    "60134588208@s.whatsapp.net": {
+    "6283194561177@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -92,12 +27,74 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 11,
-      "name": "qeel."
+      "exp": 9,
+      "name": "."
+    },
+    "62895387699993@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": true,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": [
+        "tc",
+        "menu"
+      ],
+      "datamail": [],
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 2,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 409
+    },
+    "6281775155057@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 1,
+      "membershipTime": 0,
+      "registered": true,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 1,
+      "lastreport": 1,
+      "money": 1000,
+      "limitchat": 21,
+      "stamina": 0,
+      "exp": 1775,
+      "name": "Dodolz"
     }
   },
   "chats": {
-    "62895387699993@s.whatsapp.net": {
+    "120363083909455879@g.us": {
       "isBanned": false,
       "detect": false,
       "adonly": false,
@@ -121,31 +118,7 @@
       "antiToxic": false,
       "expired": 0
     },
-    "120363083909455879@g.us": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "628974608495@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "120363356317119588@g.us": {
+    "62895387699993@s.whatsapp.net": {
       "isBanned": false,
       "detect": false,
       "adonly": false,
@@ -160,28 +133,28 @@
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1738125337946,
-      "lastSuccess": 1738125337946
-    },
-    "other-rpg_register.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1738118138881,
-      "lastSuccess": 1738118138881
-    },
-    "tc.js": {
-      "total": 39,
-      "success": 39,
-      "last": 1738122285241,
-      "lastSuccess": 1738122285241
+      "total": 16,
+      "success": 11,
+      "last": 1738157447056,
+      "lastSuccess": 1738157447056
     },
     "case-downloader.js": {
-      "total": 91,
-      "success": 85,
-      "last": 1738137261301,
-      "lastSuccess": 1738137261301
+      "total": 15,
+      "success": 15,
+      "last": 1738157454645,
+      "lastSuccess": 1738157454645
+    },
+    "tc.js": {
+      "total": 6,
+      "success": 4,
+      "last": 1738149794573,
+      "lastSuccess": 1738149794573
+    },
+    "other-rpg_register.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1738156734664,
+      "lastSuccess": 1738156734664
     }
   },
   "msgs": {},
