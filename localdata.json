@@ -13,8 +13,8 @@
       "email": "",
       "password": "",
       "listfeature": [
-        "play",
-        "yts"
+        "yts",
+        "ytsearch"
       ],
       "datamail": [
         "2",
@@ -33,7 +33,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 731
+      "exp": 965
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
@@ -62,8 +62,68 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 247,
+      "exp": 445,
       "name": "Dodolz"
+    },
+    "6288991662120@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 184,
+      "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
+    },
+    "62895801869050@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 14,
+      "name": "Tanaka"
     }
   },
   "chats": {
@@ -114,14 +174,26 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "120363356317119588@g.us": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1738070703089,
-      "lastSuccess": 1738070703089
+      "total": 12,
+      "success": 12,
+      "last": 1738125337946,
+      "lastSuccess": 1738125337946
     },
     "other-rpg_register.js": {
       "total": 6,
@@ -130,16 +202,16 @@
       "lastSuccess": 1738118138881
     },
     "tc.js": {
-      "total": 38,
-      "success": 38,
-      "last": 1738119560185,
-      "lastSuccess": 1738119560185
+      "total": 39,
+      "success": 39,
+      "last": 1738122285241,
+      "lastSuccess": 1738122285241
     },
     "case-downloader.js": {
-      "total": 63,
-      "success": 58,
-      "last": 1738076142238,
-      "lastSuccess": 1738076142238
+      "total": 89,
+      "success": 83,
+      "last": 1738131139650,
+      "lastSuccess": 1738131139650
     }
   },
   "msgs": {},
