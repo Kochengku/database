@@ -30,7 +30,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 778
+      "exp": 804
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
@@ -62,11 +62,11 @@
       "exp": 2000,
       "name": "Dodolz"
     },
-    "6288991662120@s.whatsapp.net": {
+    "6289658899268@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
-      "registered": false,
+      "registered": true,
       "membership": false,
       "hidename": false,
       "showDash": false,
@@ -87,10 +87,10 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 30,
+      "limitchat": 28,
       "stamina": 0,
-      "exp": 66,
-      "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
+      "exp": 63,
+      "name": "briliant"
     }
   },
   "chats": {
@@ -165,14 +165,26 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6289658899268@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 23,
-      "success": 18,
-      "last": 1738230286020,
-      "lastSuccess": 1738230286020
+      "total": 25,
+      "success": 20,
+      "last": 1738237433385,
+      "lastSuccess": 1738237433385
     },
     "case-downloader.js": {
       "total": 36,
