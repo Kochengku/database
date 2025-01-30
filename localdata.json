@@ -63,7 +63,7 @@
     },
     "6287847295526@s.whatsapp.net": {
       "regTime": -1,
-      "notregis": 1,
+      "notregis": 0,
       "membershipTime": 0,
       "registered": false,
       "membership": false,
@@ -86,9 +86,9 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 28,
+      "limitchat": 30,
       "stamina": 0,
-      "exp": 63,
+      "exp": 13,
       "name": "Muhammad Zein"
     }
   },
