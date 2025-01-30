@@ -13,7 +13,8 @@
       "email": "",
       "password": "",
       "listfeature": [
-        "tc"
+        "tc",
+        "ig"
       ],
       "datamail": [],
       "statustrx": "",
@@ -23,13 +24,13 @@
       "masasewa": 0,
       "lasttrx": 0,
       "hargabarang": 0,
-      "featureerror": 1,
+      "featureerror": 2,
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 611
+      "exp": 778
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
@@ -56,12 +57,12 @@
       "diamond": 1,
       "lastreport": 1,
       "money": 1000,
-      "limitchat": 21,
+      "limitchat": 20,
       "stamina": 0,
-      "exp": 1860,
+      "exp": 2000,
       "name": "Dodolz"
     },
-    "62895801869050@s.whatsapp.net": {
+    "6288991662120@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -88,38 +89,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 34,
-      "name": "Tanaka"
-    },
-    "62895423740383@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 14,
-      "name": "Pasha Ardiansyah★"
+      "exp": 66,
+      "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
     }
   },
   "chats": {
@@ -182,32 +153,56 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "120363356317119588@g.us": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 21,
-      "success": 16,
-      "last": 1738218638264,
-      "lastSuccess": 1738218638264
+      "total": 23,
+      "success": 18,
+      "last": 1738230286020,
+      "lastSuccess": 1738230286020
     },
     "case-downloader.js": {
-      "total": 31,
-      "success": 31,
-      "last": 1738224371831,
-      "lastSuccess": 1738224371831
+      "total": 36,
+      "success": 34,
+      "last": 1738230541029,
+      "lastSuccess": 1738230541029
     },
     "tc.js": {
-      "total": 6,
-      "success": 4,
-      "last": 1738149794573,
-      "lastSuccess": 1738149794573
+      "total": 15,
+      "success": 13,
+      "last": 1738232422717,
+      "lastSuccess": 1738232422717
     },
     "other-rpg_register.js": {
       "total": 5,
       "success": 5,
       "last": 1738156734664,
       "lastSuccess": 1738156734664
+    },
+    "other-owner_exec2.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738229491565,
+      "lastSuccess": 1738229491565
+    },
+    "tool-upload.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1738230799975,
+      "lastSuccess": 1738230799975
     }
   },
   "msgs": {},
