@@ -27,7 +27,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 826
+      "exp": 919
     },
     "6289658899268@s.whatsapp.net": {
       "regTime": -1,
@@ -59,7 +59,7 @@
       "exp": 79,
       "name": "ndauuU"
     },
-    "6285783684942@s.whatsapp.net": {
+    "60134588208@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -86,10 +86,10 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 15,
-      "name": "ian🤡//𝐑𝐖𝐍𝟏𝟗𝟎"
+      "exp": 13,
+      "name": "qeel."
     },
-    "6282141404209@s.whatsapp.net": {
+    "6288991662120@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -116,9 +116,10 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 6
+      "exp": 11,
+      "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
     },
-    "628974608495@s.whatsapp.net": {
+    "6281775155057@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -143,10 +144,10 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 30,
+      "limitchat": 29,
       "stamina": 0,
-      "exp": 18,
-      "name": "rapiiuww"
+      "exp": 54,
+      "name": "Dodolz"
     }
   },
   "chats": {
@@ -225,10 +226,10 @@
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 20,
-      "success": 18,
-      "last": 1738376182716,
-      "lastSuccess": 1738376182716
+      "total": 21,
+      "success": 19,
+      "last": 1738387792802,
+      "lastSuccess": 1738387792802
     },
     "case-tools.js": {
       "total": 13,
@@ -237,10 +238,10 @@
       "lastSuccess": 1738318452474
     },
     "case-downloader.js": {
-      "total": 16,
-      "success": 16,
-      "last": 1738378413174,
-      "lastSuccess": 1738378413174
+      "total": 19,
+      "success": 19,
+      "last": 1738386095451,
+      "lastSuccess": 1738386095451
     },
     "other-owner_exec2.js": {
       "total": 2,
@@ -267,10 +268,10 @@
       "lastSuccess": 1738326801317
     },
     "case-game.js": {
-      "total": 11,
-      "success": 7,
-      "last": 1738333643205,
-      "lastSuccess": 1738333643205
+      "total": 13,
+      "success": 9,
+      "last": 1738387780783,
+      "lastSuccess": 1738387780783
     }
   },
   "msgs": {},
