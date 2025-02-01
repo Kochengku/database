@@ -27,7 +27,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 919
+      "exp": 1841,
+      "gametoken": 0
     },
     "6289658899268@s.whatsapp.net": {
       "regTime": -1,
@@ -59,6 +60,37 @@
       "exp": 79,
       "name": "ndauuU"
     },
+    "6281775155057@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 1,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 28,
+      "stamina": 0,
+      "exp": 591,
+      "name": "Dodolz",
+      "gametoken": 0
+    },
     "60134588208@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
@@ -86,10 +118,11 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 13,
-      "name": "qeel."
+      "exp": 23,
+      "name": "qeel.",
+      "gametoken": 0
     },
-    "6288991662120@s.whatsapp.net": {
+    "6282113443806@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -116,10 +149,10 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 11,
-      "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
+      "exp": 18,
+      "name": "FuxxyDev"
     },
-    "6281775155057@s.whatsapp.net": {
+    "6281215442646@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -127,7 +160,7 @@
       "membership": false,
       "hidename": false,
       "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/7818225acf1ac3ce1081f7ea50865c26.jpg",
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
       "codemail": "",
       "email": "",
       "password": "",
@@ -144,10 +177,71 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 29,
+      "limitchat": 30,
       "stamina": 0,
-      "exp": 54,
-      "name": "Dodolz"
+      "exp": 3
+    },
+    "6288991662120@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "gametoken": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 116,
+      "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
+    },
+    "6285624397146@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "gametoken": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 15,
+      "name": "nacaa🐣"
     }
   },
   "chats": {
@@ -226,22 +320,22 @@
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 21,
-      "success": 19,
-      "last": 1738387792802,
-      "lastSuccess": 1738387792802
+      "total": 29,
+      "success": 27,
+      "last": 1738400369507,
+      "lastSuccess": 1738400369507
     },
     "case-tools.js": {
-      "total": 13,
-      "success": 12,
-      "last": 1738318452474,
-      "lastSuccess": 1738318452474
+      "total": 28,
+      "success": 27,
+      "last": 1738391698237,
+      "lastSuccess": 1738391698237
     },
     "case-downloader.js": {
-      "total": 19,
-      "success": 19,
-      "last": 1738386095451,
-      "lastSuccess": 1738386095451
+      "total": 26,
+      "success": 26,
+      "last": 1738404571291,
+      "lastSuccess": 1738404571291
     },
     "other-owner_exec2.js": {
       "total": 2,
@@ -268,10 +362,10 @@
       "lastSuccess": 1738326801317
     },
     "case-game.js": {
-      "total": 13,
-      "success": 9,
-      "last": 1738387780783,
-      "lastSuccess": 1738387780783
+      "total": 46,
+      "success": 39,
+      "last": 1738405801900,
+      "lastSuccess": 1738405801900
     }
   },
   "msgs": {},
