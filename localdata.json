@@ -27,7 +27,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 3165,
+      "exp": 3372,
       "gametoken": 0
     },
     "6289658899268@s.whatsapp.net": {
@@ -63,7 +63,7 @@
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
-      "notregis": 1,
+      "notregis": 0,
       "membershipTime": 0,
       "registered": false,
       "membership": false,
@@ -86,9 +86,9 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 19,
+      "limitchat": 29,
       "stamina": 0,
-      "exp": 72,
+      "exp": 83,
       "name": "Dodolz"
     },
     "6288991662120@s.whatsapp.net": {
@@ -115,10 +115,10 @@
       "featureerror": 0,
       "diamond": 0,
       "lastreport": 0,
-      "money": 0,
+      "money": "0999",
       "limitchat": 30,
       "stamina": 0,
-      "exp": 33,
+      "exp": "3659104",
       "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
     }
   },
@@ -198,10 +198,10 @@
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 47,
-      "success": 45,
-      "last": 1738467813136,
-      "lastSuccess": 1738467813136
+      "total": 49,
+      "success": 47,
+      "last": 1738474168453,
+      "lastSuccess": 1738474168453
     },
     "case-tools.js": {
       "total": 29,
@@ -216,16 +216,16 @@
       "lastSuccess": 1738467861366
     },
     "other-owner_exec2.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1738303757970,
-      "lastSuccess": 1738303757970
+      "total": 3,
+      "success": 3,
+      "last": 1738473345754,
+      "lastSuccess": 1738473345754
     },
     "tc.js": {
-      "total": 10,
-      "success": 8,
-      "last": 1738469526117,
-      "lastSuccess": 1738469526117
+      "total": 11,
+      "success": 9,
+      "last": 1738473612538,
+      "lastSuccess": 1738473612538
     },
     "case-ai.js": {
       "total": 17,
@@ -240,10 +240,10 @@
       "lastSuccess": 1738413981656
     },
     "case-game.js": {
-      "total": 97,
-      "success": 88,
-      "last": 1738467848704,
-      "lastSuccess": 1738467848704
+      "total": 101,
+      "success": 92,
+      "last": 1738474482309,
+      "lastSuccess": 1738474482309
     },
     "other-owner_exec.js": {
       "total": 5,
@@ -252,10 +252,10 @@
       "lastSuccess": 1738422233669
     },
     "case-internet.js": {
-      "total": 8,
-      "success": 6,
-      "last": 1738470885749,
-      "lastSuccess": 1738470885749
+      "total": 18,
+      "success": 16,
+      "last": 1738473944167,
+      "lastSuccess": 1738473944167
     }
   },
   "msgs": {},
