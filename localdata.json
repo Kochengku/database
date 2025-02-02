@@ -12,9 +12,7 @@
       "codemail": "",
       "email": "",
       "password": "",
-      "listfeature": [
-        "mathgame"
-      ],
+      "listfeature": [],
       "datamail": [],
       "statustrx": "",
       "idtrx": "",
@@ -23,13 +21,13 @@
       "masasewa": 0,
       "lasttrx": 0,
       "hargabarang": 0,
-      "featureerror": 1,
+      "featureerror": 0,
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2184,
+      "exp": 3165,
       "gametoken": 0
     },
     "6289658899268@s.whatsapp.net": {
@@ -63,6 +61,36 @@
       "name": "ndauuU",
       "gametoken": 0
     },
+    "6281775155057@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 1,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 19,
+      "stamina": 0,
+      "exp": 72,
+      "name": "Dodolz"
+    },
     "6288991662120@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
@@ -90,7 +118,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 6
+      "exp": 33,
+      "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
     }
   },
   "chats": {
@@ -169,10 +198,10 @@
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 32,
-      "success": 30,
-      "last": 1738421590396,
-      "lastSuccess": 1738421590396
+      "total": 47,
+      "success": 45,
+      "last": 1738467813136,
+      "lastSuccess": 1738467813136
     },
     "case-tools.js": {
       "total": 29,
@@ -181,10 +210,10 @@
       "lastSuccess": 1738418549947
     },
     "case-downloader.js": {
-      "total": 29,
-      "success": 29,
-      "last": 1738425285407,
-      "lastSuccess": 1738425285407
+      "total": 32,
+      "success": 32,
+      "last": 1738467861366,
+      "lastSuccess": 1738467861366
     },
     "other-owner_exec2.js": {
       "total": 2,
@@ -193,16 +222,16 @@
       "lastSuccess": 1738303757970
     },
     "tc.js": {
-      "total": 8,
-      "success": 6,
-      "last": 1738316952498,
-      "lastSuccess": 1738316952498
+      "total": 10,
+      "success": 8,
+      "last": 1738469526117,
+      "lastSuccess": 1738469526117
     },
     "case-ai.js": {
-      "total": 15,
-      "success": 15,
-      "last": 1738318790441,
-      "lastSuccess": 1738318790441
+      "total": 17,
+      "success": 17,
+      "last": 1738465727882,
+      "lastSuccess": 1738465727882
     },
     "other-rpg_register.js": {
       "total": 4,
@@ -211,16 +240,22 @@
       "lastSuccess": 1738413981656
     },
     "case-game.js": {
-      "total": 60,
-      "success": 51,
-      "last": 1738422236657,
-      "lastSuccess": 1738422236657
+      "total": 97,
+      "success": 88,
+      "last": 1738467848704,
+      "lastSuccess": 1738467848704
     },
     "other-owner_exec.js": {
       "total": 5,
       "success": 5,
       "last": 1738422233669,
       "lastSuccess": 1738422233669
+    },
+    "case-internet.js": {
+      "total": 8,
+      "success": 6,
+      "last": 1738470885749,
+      "lastSuccess": 1738470885749
     }
   },
   "msgs": {},
