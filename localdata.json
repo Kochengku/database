@@ -27,7 +27,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 3372,
+      "exp": 3385,
       "gametoken": 0
     },
     "6289658899268@s.whatsapp.net": {
@@ -86,40 +86,9 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 29,
-      "stamina": 0,
-      "exp": 83,
-      "name": "Dodolz"
-    },
-    "6288991662120@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": "0999",
       "limitchat": 30,
       "stamina": 0,
-      "exp": "3659104",
-      "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
+      "exp": 2
     }
   },
   "chats": {
@@ -252,10 +221,10 @@
       "lastSuccess": 1738422233669
     },
     "case-internet.js": {
-      "total": 18,
-      "success": 16,
-      "last": 1738473944167,
-      "lastSuccess": 1738473944167
+      "total": 19,
+      "success": 17,
+      "last": 1738485025420,
+      "lastSuccess": 1738485025420
     }
   },
   "msgs": {},
