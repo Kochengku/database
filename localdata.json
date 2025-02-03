@@ -27,7 +27,67 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 43
+      "exp": 91
+    },
+    "6281775155057@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 28,
+      "name": "Dodolz"
+    },
+    "6288991662120@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 10,
+      "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
     }
   },
   "chats": {
@@ -82,16 +142,22 @@
   },
   "stats": {
     "case-internet.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1738508395169,
-      "lastSuccess": 1738508395169
+      "total": 3,
+      "success": 3,
+      "last": 1738570528330,
+      "lastSuccess": 1738570528330
     },
     "case-tools.js": {
       "total": 3,
       "success": 3,
       "last": 1738534700489,
       "lastSuccess": 1738534700489
+    },
+    "case-downloader.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738572800025,
+      "lastSuccess": 1738572800025
     }
   },
   "msgs": {},
