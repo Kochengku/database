@@ -29,7 +29,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 687
+      "exp": 2612
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
@@ -56,9 +56,9 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 28,
+      "limitchat": 27,
       "stamina": 0,
-      "exp": 219,
+      "exp": 103,
       "name": "Dodolz"
     },
     "6288991662120@s.whatsapp.net": {
@@ -88,8 +88,38 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 9,
+      "exp": 92,
       "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
+    },
+    "6285783684942@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 161,
+      "name": "ian🤡//𝐑𝐖𝐍𝟏𝟗𝟎"
     },
     "6285890245811@s.whatsapp.net": {
       "regTime": -1,
@@ -118,7 +148,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 11,
+      "exp": 15,
       "name": "shopgamefinzz"
     },
     "60162380764@s.whatsapp.net": {
@@ -145,12 +175,43 @@
       "featureerror": 0,
       "diamond": 0,
       "lastreport": 0,
-      "money": 0,
+      "money": 999,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 4
+      "exp": 4592,
+      "name": "— Anti Romantic"
     },
     "60134588208@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 2499,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 28669,
+      "name": "qeel."
+    },
+    "6285351391935@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -177,7 +238,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 5
+      "exp": 13,
+      "name": "ꪗⅈꪀ`ᥴ!ꪀꪖ🇨🇳"
     }
   },
   "chats": {
@@ -288,6 +350,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "60134588208@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -298,10 +372,10 @@
       "lastSuccess": 1738658954843
     },
     "case-tools.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1738623859145,
-      "lastSuccess": 1738623859145
+      "total": 14,
+      "success": 14,
+      "last": 1738677223221,
+      "lastSuccess": 1738677223221
     },
     "case-downloader.js": {
       "total": 22,
@@ -310,10 +384,10 @@
       "lastSuccess": 1738658986048
     },
     "sistem-menu.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1738671357931,
-      "lastSuccess": 1738671357931
+      "total": 15,
+      "success": 15,
+      "last": 1738679028301,
+      "lastSuccess": 1738679028301
     },
     "other-rpg_register.js": {
       "total": 10,
@@ -326,6 +400,24 @@
       "success": 2,
       "last": 1738591457124,
       "lastSuccess": 1738591457124
+    },
+    "case-ai.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1738675392230,
+      "lastSuccess": 1738675392230
+    },
+    "case-game.js": {
+      "total": 72,
+      "success": 72,
+      "last": 1738679099884,
+      "lastSuccess": 1738679099884
+    },
+    "tc.js": {
+      "total": 5,
+      "success": 2,
+      "last": 1738678046490,
+      "lastSuccess": 1738678046490
     }
   },
   "msgs": {},
