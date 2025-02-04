@@ -29,7 +29,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2612
+      "exp": 2619
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
@@ -58,7 +58,7 @@
       "money": 0,
       "limitchat": 27,
       "stamina": 0,
-      "exp": 103,
+      "exp": 111,
       "name": "Dodolz"
     },
     "6288991662120@s.whatsapp.net": {
@@ -88,10 +88,10 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 92,
+      "exp": 33,
       "name": "𝙆𝙖𝙮𝙯𝙚𝙣"
     },
-    "6285783684942@s.whatsapp.net": {
+    "62895801869050@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -118,10 +118,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 161,
-      "name": "ian🤡//𝐑𝐖𝐍𝟏𝟗𝟎"
+      "exp": 7
     },
-    "6285890245811@s.whatsapp.net": {
+    "120363083909455879@g.us": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -148,98 +147,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 15,
-      "name": "shopgamefinzz"
-    },
-    "60162380764@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 999,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 4592,
-      "name": "— Anti Romantic"
-    },
-    "60134588208@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 2499,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 28669,
-      "name": "qeel."
-    },
-    "6285351391935@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 13,
-      "name": "ꪗⅈꪀ`ᥴ!ꪀꪖ🇨🇳"
+      "exp": 9
     }
   },
   "chats": {
@@ -384,10 +292,10 @@
       "lastSuccess": 1738658986048
     },
     "sistem-menu.js": {
-      "total": 15,
-      "success": 15,
-      "last": 1738679028301,
-      "lastSuccess": 1738679028301
+      "total": 16,
+      "success": 16,
+      "last": 1738684531851,
+      "lastSuccess": 1738684531851
     },
     "other-rpg_register.js": {
       "total": 10,
