@@ -29,7 +29,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 661
+      "exp": 676
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
@@ -58,10 +58,10 @@
       "money": 0,
       "limitchat": 28,
       "stamina": 0,
-      "exp": 178,
+      "exp": 186,
       "name": "Dodolz"
     },
-    "6288991662120@s.whatsapp.net": {
+    "628974608495@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -89,65 +89,6 @@
       "limitchat": 30,
       "stamina": 0,
       "exp": 6
-    },
-    "6281563468361@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 1,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 29,
-      "stamina": 0,
-      "exp": 39,
-      "name": "."
-    },
-    "60162380764@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 10
     }
   },
   "chats": {
@@ -262,10 +203,10 @@
   },
   "stats": {
     "case-internet.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1738570528330,
-      "lastSuccess": 1738570528330
+      "total": 4,
+      "success": 4,
+      "last": 1738658954843,
+      "lastSuccess": 1738658954843
     },
     "case-tools.js": {
       "total": 9,
@@ -274,10 +215,10 @@
       "lastSuccess": 1738623859145
     },
     "case-downloader.js": {
-      "total": 21,
-      "success": 21,
-      "last": 1738658635947,
-      "lastSuccess": 1738658635947
+      "total": 22,
+      "success": 22,
+      "last": 1738658986048,
+      "lastSuccess": 1738658986048
     },
     "sistem-menu.js": {
       "total": 9,
