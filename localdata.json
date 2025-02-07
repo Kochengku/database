@@ -60,7 +60,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 280
+      "exp": 313
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
@@ -92,7 +92,7 @@
       "exp": 50,
       "name": "Didil"
     },
-    "6285890245811@s.whatsapp.net": {
+    "628974608495@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -119,7 +119,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 4
+      "exp": 13,
+      "name": "rapiiuww"
     }
   },
   "chats": {
@@ -204,10 +205,10 @@
       "lastSuccess": 1738849165117
     },
     "case-downloader.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1738891525340,
-      "lastSuccess": 1738891525340
+      "total": 12,
+      "success": 12,
+      "last": 1738906011657,
+      "lastSuccess": 1738906011657
     },
     "sistem-menu.js": {
       "total": 3,
