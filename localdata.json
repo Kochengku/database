@@ -60,7 +60,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 195
+      "exp": 272
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
@@ -92,7 +92,7 @@
       "exp": 50,
       "name": "Didil"
     },
-    "6289658899268@s.whatsapp.net": {
+    "6285351391935@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -119,11 +119,12 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 6
+      "exp": 8,
+      "name": "ꪗⅈꪀ`ᥴ!ꪀꪖ🇨🇳"
     },
-    "6281541147303@s.whatsapp.net": {
+    "6287877444230@s.whatsapp.net": {
       "regTime": -1,
-      "notregis": 0,
+      "notregis": 1,
       "membershipTime": 0,
       "registered": false,
       "membership": false,
@@ -146,40 +147,10 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 30,
+      "limitchat": 28,
       "stamina": 0,
-      "exp": 32,
-      "name": "Jepri nikol"
-    },
-    "6287823409988@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 14,
-      "name": "😈"
+      "exp": 47,
+      "name": "a"
     }
   },
   "chats": {
@@ -242,6 +213,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6287877444230@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -252,10 +235,16 @@
       "lastSuccess": 1738849165117
     },
     "case-downloader.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1738884041260,
-      "lastSuccess": 1738884041260
+      "total": 11,
+      "success": 11,
+      "last": 1738891525340,
+      "lastSuccess": 1738891525340
+    },
+    "sistem-menu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1738891490166,
+      "lastSuccess": 1738891490166
     }
   },
   "msgs": {},
