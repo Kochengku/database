@@ -60,7 +60,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 272
+      "exp": 280
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": -1,
@@ -92,7 +92,7 @@
       "exp": 50,
       "name": "Didil"
     },
-    "6285351391935@s.whatsapp.net": {
+    "6285890245811@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -119,38 +119,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 8,
-      "name": "ꪗⅈꪀ`ᥴ!ꪀꪖ🇨🇳"
-    },
-    "6287877444230@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 1,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 28,
-      "stamina": 0,
-      "exp": 47,
-      "name": "a"
+      "exp": 4
     }
   },
   "chats": {
@@ -245,6 +214,12 @@
       "success": 3,
       "last": 1738891490166,
       "lastSuccess": 1738891490166
+    },
+    "case-group.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1738896236695,
+      "lastSuccess": 1738896236695
     }
   },
   "msgs": {},
