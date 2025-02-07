@@ -34,7 +34,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1688
+      "exp": 1699
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": 0,
@@ -125,6 +125,35 @@
       "stamina": 0,
       "exp": 45,
       "name": "."
+    },
+    "6287841308086@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 1
     }
   },
   "chats": {
@@ -293,10 +322,10 @@
       "lastSuccess": 1738945789666
     },
     "case-downloader.js": {
-      "total": 30,
-      "success": 30,
-      "last": 1738941302631,
-      "lastSuccess": 1738941302631
+      "total": 31,
+      "success": 31,
+      "last": 1738967790513,
+      "lastSuccess": 1738967790513
     },
     "sistem-menu.js": {
       "total": 22,
