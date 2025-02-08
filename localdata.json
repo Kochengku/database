@@ -39,7 +39,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1763,
+      "exp": 1770,
       "daccount": false
     },
     "6285890245811@s.whatsapp.net": {
@@ -132,6 +132,36 @@
       "stamina": 0,
       "exp": 110,
       "name": "Siti Aminah"
+    },
+    "60134588208@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 7
     }
   },
   "chats": {
@@ -240,10 +270,10 @@
       "lastSuccess": 1739025552522
     },
     "case-downloader.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1739026476868,
-      "lastSuccess": 1739026476868
+      "total": 5,
+      "success": 5,
+      "last": 1739040098653,
+      "lastSuccess": 1739040098653
     },
     "other-group_enable.js": {
       "total": 3,
