@@ -53,7 +53,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1065
+      "exp": 1087
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": 0,
@@ -178,10 +178,10 @@
       "money": 0,
       "limitchat": 27,
       "stamina": 0,
-      "exp": 67,
+      "exp": 69,
       "name": "briliant🌟🦢"
     },
-    "6285274910560@s.whatsapp.net": {
+    "6283871825052@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -210,7 +210,39 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 3
+      "exp": 14,
+      "name": "@mad_store19"
+    },
+    "6288991662120@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 1
     }
   },
   "chats": {
@@ -349,10 +381,10 @@
   },
   "stats": {
     "case-downloader.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1739134849590,
-      "lastSuccess": 1739134849590
+      "total": 14,
+      "success": 14,
+      "last": 1739138527859,
+      "lastSuccess": 1739138527859
     },
     "other-rpg_register.js": {
       "total": 41,
@@ -367,10 +399,10 @@
       "lastSuccess": 1739089552060
     },
     "sistem-menu.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1739127217843,
-      "lastSuccess": 1739127217843
+      "total": 12,
+      "success": 12,
+      "last": 1739139294128,
+      "lastSuccess": 1739139294128
     },
     "case-tools.js": {
       "total": 6,
