@@ -53,7 +53,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1056
+      "exp": 1065
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": 0,
@@ -180,6 +180,37 @@
       "stamina": 0,
       "exp": 67,
       "name": "briliant🌟🦢"
+    },
+    "6285274910560@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 3
     }
   },
   "chats": {
@@ -318,10 +349,10 @@
   },
   "stats": {
     "case-downloader.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1739115615232,
-      "lastSuccess": 1739115615232
+      "total": 13,
+      "success": 13,
+      "last": 1739134849590,
+      "lastSuccess": 1739134849590
     },
     "other-rpg_register.js": {
       "total": 41,
