@@ -63,7 +63,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1835
+      "exp": 1840
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": 0,
@@ -154,9 +154,9 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 23,
+      "limitchat": 22,
       "stamina": 0,
-      "exp": 426,
+      "exp": 471,
       "name": "Siti Aminah"
     },
     "6289658899268@s.whatsapp.net": {
@@ -382,10 +382,10 @@
       "lastSuccess": 1739089552060
     },
     "sistem-menu.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1739193930139,
-      "lastSuccess": 1739193930139
+      "total": 24,
+      "success": 24,
+      "last": 1739214457733,
+      "lastSuccess": 1739214457733
     },
     "case-tools.js": {
       "total": 9,
