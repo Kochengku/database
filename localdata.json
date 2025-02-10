@@ -41,6 +41,12 @@
         "",
         ".owner",
         "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
         ""
       ],
       "daccount": false,
@@ -57,7 +63,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1327
+      "exp": 1401
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": 0,
@@ -130,9 +136,9 @@
       "hidename": false,
       "showDash": false,
       "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "851340",
+      "codemail": "650548",
       "email": "",
-      "password": "851340",
+      "password": "650548",
       "listfeature": "",
       "datamail": "",
       "daccount": false,
@@ -148,9 +154,9 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 25,
+      "limitchat": 23,
       "stamina": 0,
-      "exp": 374,
+      "exp": 426,
       "name": "Siti Aminah"
     },
     "6289658899268@s.whatsapp.net": {
@@ -184,38 +190,6 @@
       "stamina": 0,
       "exp": 69,
       "name": "briliant🌟🦢"
-    },
-    "6281327576802@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 14,
-      "name": "k"
     }
   },
   "chats": {
@@ -384,10 +358,10 @@
       "lastSuccess": 1739138527859
     },
     "other-rpg_register.js": {
-      "total": 41,
-      "success": 41,
-      "last": 1739086470597,
-      "lastSuccess": 1739086470597
+      "total": 43,
+      "success": 43,
+      "last": 1739154631757,
+      "lastSuccess": 1739154631757
     },
     "other-owner_exec.js": {
       "total": 11,
@@ -396,10 +370,10 @@
       "lastSuccess": 1739089552060
     },
     "sistem-menu.js": {
-      "total": 18,
-      "success": 18,
-      "last": 1739148261523,
-      "lastSuccess": 1739148261523
+      "total": 20,
+      "success": 20,
+      "last": 1739154590055,
+      "lastSuccess": 1739154590055
     },
     "case-tools.js": {
       "total": 6,
