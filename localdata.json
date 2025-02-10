@@ -37,6 +37,10 @@
         ".owner",
         "",
         "",
+        "",
+        "",
+        ".owner",
+        "",
         ""
       ],
       "daccount": false,
@@ -53,7 +57,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1087
+      "exp": 1327
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": 0,
@@ -126,9 +130,9 @@
       "hidename": false,
       "showDash": false,
       "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "006790",
+      "codemail": "851340",
       "email": "",
-      "password": "006790",
+      "password": "851340",
       "listfeature": "",
       "datamail": "",
       "daccount": false,
@@ -144,9 +148,9 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 26,
+      "limitchat": 25,
       "stamina": 0,
-      "exp": 129,
+      "exp": 374,
       "name": "Siti Aminah"
     },
     "6289658899268@s.whatsapp.net": {
@@ -181,7 +185,7 @@
       "exp": 69,
       "name": "briliant🌟🦢"
     },
-    "6283871825052@s.whatsapp.net": {
+    "6281327576802@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -211,38 +215,7 @@
       "limitchat": 30,
       "stamina": 0,
       "exp": 14,
-      "name": "@mad_store19"
-    },
-    "6288991662120@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 1
+      "name": "k"
     }
   },
   "chats": {
@@ -377,6 +350,30 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "120363399401493722@g.us": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": true,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
+    },
+    "6281327576802@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -399,16 +396,34 @@
       "lastSuccess": 1739089552060
     },
     "sistem-menu.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1739139294128,
-      "lastSuccess": 1739139294128
+      "total": 18,
+      "success": 18,
+      "last": 1739148261523,
+      "lastSuccess": 1739148261523
     },
     "case-tools.js": {
       "total": 6,
       "success": 6,
       "last": 1739117258058,
       "lastSuccess": 1739117258058
+    },
+    "other-group_enable.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1739147489814,
+      "lastSuccess": 1739147489814
+    },
+    "case-ai.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1739147672192,
+      "lastSuccess": 1739147672192
+    },
+    "case-group.js": {
+      "total": 12,
+      "success": 12,
+      "last": 1739149001741,
+      "lastSuccess": 1739149001741
     }
   },
   "msgs": {},
