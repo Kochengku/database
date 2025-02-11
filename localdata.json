@@ -63,7 +63,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1840
+      "exp": 1975
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": 0,
@@ -190,6 +190,69 @@
       "stamina": 0,
       "exp": 107,
       "name": "briliant🌟🦢"
+    },
+    "6287841308086@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 65,
+      "name": "j"
+    },
+    "6283127564107@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 10
     }
   },
   "chats": {
@@ -364,10 +427,10 @@
   },
   "stats": {
     "case-downloader.js": {
-      "total": 36,
-      "success": 36,
-      "last": 1739199966555,
-      "lastSuccess": 1739199966555
+      "total": 48,
+      "success": 48,
+      "last": 1739255770037,
+      "lastSuccess": 1739255770037
     },
     "other-rpg_register.js": {
       "total": 43,
