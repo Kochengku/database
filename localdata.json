@@ -63,7 +63,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2209
+      "exp": 2236
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": 0,
@@ -223,7 +223,7 @@
       "exp": 122,
       "name": "j"
     },
-    "6287840804144@s.whatsapp.net": {
+    "6282151105994@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -252,8 +252,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 30,
-      "name": "c"
+      "exp": 17,
+      "name": "Nisa"
     }
   },
   "chats": {
@@ -440,10 +440,10 @@
   },
   "stats": {
     "case-downloader.js": {
-      "total": 65,
-      "success": 65,
-      "last": 1739278626471,
-      "lastSuccess": 1739278626471
+      "total": 67,
+      "success": 67,
+      "last": 1739279819038,
+      "lastSuccess": 1739279819038
     },
     "other-rpg_register.js": {
       "total": 43,
