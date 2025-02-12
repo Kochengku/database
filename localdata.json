@@ -1,14 +1,14 @@
 {
   "users": {
     "6281775155057@s.whatsapp.net": {
-      "regTime": -1,
+      "regTime": 0,
       "notregis": 0,
       "membershipTime": 0,
-      "registered": true,
+      "registered": false,
       "membership": false,
       "hidename": false,
       "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "borderurl": "",
       "codemail": "",
       "email": "kentukimeme@gmail.com",
       "password": "943430",
@@ -27,10 +27,10 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 30,
+      "limitchat": 0,
       "stamina": 0,
-      "exp": 36,
-      "name": "Dodolz"
+      "exp": 4,
+      "name": ""
     },
     "62895387699993@s.whatsapp.net": {
       "regTime": -1,
@@ -47,7 +47,10 @@
       "listfeature": [],
       "datamail": [
         "2",
-        "kentukimeme@gmail.com"
+        "kentukimeme@gmail.com",
+        "2",
+        "2",
+        "kucingsigma83@gmail.com"
       ],
       "daccount": false,
       "daccount2": false,
@@ -64,20 +67,52 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 68
+      "exp": 406
+    },
+    "6289658899268@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 21,
+      "name": "briliant🌟"
     },
     "6283183852946@s.whatsapp.net": {
-      "regTime": -1,
+      "regTime": 0,
       "notregis": 0,
       "membershipTime": 0,
       "registered": false,
       "membership": false,
       "hidename": false,
       "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "borderurl": "",
       "codemail": "",
-      "email": "",
-      "password": "",
+      "email": "kentukimeme@gmail.com",
+      "password": "943430",
       "listfeature": "",
       "datamail": "",
       "daccount": false,
@@ -93,12 +128,12 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 30,
+      "limitchat": 0,
       "stamina": 0,
-      "exp": 11,
-      "name": "Didil"
+      "exp": 16,
+      "name": ""
     },
-    "6287841308086@s.whatsapp.net": {
+    "6283140769876@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -127,8 +162,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 14,
-      "name": "j"
+      "exp": 1
     }
   },
   "chats": {
@@ -167,26 +201,62 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "62895387699993@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
+    },
+    "6289658899268@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
+    },
+    "120363083909455879@g.us": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "other-rpg_register.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1739355576241,
-      "lastSuccess": 1739355576241
+      "total": 31,
+      "success": 29,
+      "last": 1739365848250,
+      "lastSuccess": 1739365848250
     },
     "sistem-menu.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1739355568677,
-      "lastSuccess": 0
+      "total": 3,
+      "success": 1,
+      "last": 1739363762920,
+      "lastSuccess": 1739363762920
     },
     "case-downloader.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1739360715630,
-      "lastSuccess": 1739360715630
+      "total": 6,
+      "success": 6,
+      "last": 1739366493074,
+      "lastSuccess": 1739366493074
     }
   },
   "msgs": {},
