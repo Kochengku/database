@@ -63,7 +63,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2439
+      "exp": 2480
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": 0,
@@ -222,6 +222,38 @@
       "stamina": 0,
       "exp": 199,
       "name": "j"
+    },
+    "60162380764@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 7,
+      "name": "— Anti Romantic"
     }
   },
   "chats": {
@@ -416,14 +448,26 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "60162380764@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "case-downloader.js": {
-      "total": 86,
-      "success": 86,
-      "last": 1739333510973,
-      "lastSuccess": 1739333510973
+      "total": 89,
+      "success": 89,
+      "last": 1739341697164,
+      "lastSuccess": 1739341697164
     },
     "other-rpg_register.js": {
       "total": 43,
