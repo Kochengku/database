@@ -63,7 +63,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2480
+      "exp": 2592
     },
     "6281775155057@s.whatsapp.net": {
       "regTime": 0,
@@ -223,7 +223,7 @@
       "exp": 199,
       "name": "j"
     },
-    "60162380764@s.whatsapp.net": {
+    "6283127564107@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -252,8 +252,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 7,
-      "name": "— Anti Romantic"
+      "exp": 56,
+      "name": "?"
     }
   },
   "chats": {
@@ -464,10 +464,10 @@
   },
   "stats": {
     "case-downloader.js": {
-      "total": 89,
-      "success": 89,
-      "last": 1739341697164,
-      "lastSuccess": 1739341697164
+      "total": 94,
+      "success": 94,
+      "last": 1739348207057,
+      "lastSuccess": 1739348207057
     },
     "other-rpg_register.js": {
       "total": 43,
