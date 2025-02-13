@@ -35,7 +35,39 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 693
+      "exp": 720
+    },
+    "60162380764@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 15,
+      "name": "— Anti Romantic"
     }
   },
   "chats": {
@@ -122,6 +154,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "60162380764@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -138,10 +182,10 @@
       "lastSuccess": 1739401982693
     },
     "case-downloader.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1739404385840,
-      "lastSuccess": 1739404385840
+      "total": 12,
+      "success": 12,
+      "last": 1739420203885,
+      "lastSuccess": 1739420203885
     },
     "case-internet.js": {
       "total": 3,
