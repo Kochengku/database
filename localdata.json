@@ -35,9 +35,41 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 720
+      "exp": 759
     },
-    "60162380764@s.whatsapp.net": {
+    "6285244692516@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": true,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 28,
+      "stamina": 0,
+      "exp": 102,
+      "name": "reza"
+    },
+    "6283127564107@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -66,8 +98,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 15,
-      "name": "— Anti Romantic"
+      "exp": 4
     }
   },
   "chats": {
@@ -166,26 +197,50 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6285244692516@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
+    },
+    "6283127564107@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "other-rpg_register.js": {
-      "total": 31,
-      "success": 29,
-      "last": 1739365848250,
-      "lastSuccess": 1739365848250
+      "total": 33,
+      "success": 31,
+      "last": 1739420573939,
+      "lastSuccess": 1739420573939
     },
     "sistem-menu.js": {
-      "total": 5,
-      "success": 3,
-      "last": 1739401982693,
-      "lastSuccess": 1739401982693
+      "total": 7,
+      "success": 5,
+      "last": 1739420586887,
+      "lastSuccess": 1739420586887
     },
     "case-downloader.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1739420203885,
-      "lastSuccess": 1739420203885
+      "total": 13,
+      "success": 13,
+      "last": 1739423443524,
+      "lastSuccess": 1739423443524
     },
     "case-internet.js": {
       "total": 3,
