@@ -35,7 +35,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 831
+      "exp": 839
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -69,7 +69,7 @@
       "exp": 102,
       "name": "reza"
     },
-    "6287841308086@s.whatsapp.net": {
+    "6281775155057@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -98,8 +98,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 40,
-      "name": "j"
+      "exp": 3
     }
   },
   "chats": {
@@ -244,10 +243,10 @@
       "lastSuccess": 1739430381223
     },
     "case-internet.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1739400567838,
-      "lastSuccess": 1739400567838
+      "total": 4,
+      "success": 4,
+      "last": 1739437650043,
+      "lastSuccess": 1739437650043
     }
   },
   "msgs": {},
