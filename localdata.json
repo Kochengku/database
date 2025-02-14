@@ -35,7 +35,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1151
+      "exp": 1263
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -64,42 +64,10 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 28,
+      "limitchat": 27,
       "stamina": 0,
-      "exp": 102,
+      "exp": 150,
       "name": "reza"
-    },
-    "6285274910560@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 43,
-      "name": "ㅤ   ㅤ        ㅤ"
     },
     "6287841308086@s.whatsapp.net": {
       "regTime": -1,
@@ -130,7 +98,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 25,
+      "exp": 49,
       "name": "بيانكا"
     }
   },
@@ -264,16 +232,16 @@
       "lastSuccess": 1739454747679
     },
     "sistem-menu.js": {
-      "total": 7,
-      "success": 5,
-      "last": 1739420586887,
-      "lastSuccess": 1739420586887
+      "total": 8,
+      "success": 6,
+      "last": 1739504571559,
+      "lastSuccess": 1739504571559
     },
     "case-downloader.js": {
-      "total": 33,
-      "success": 33,
-      "last": 1739503665524,
-      "lastSuccess": 1739503665524
+      "total": 41,
+      "success": 41,
+      "last": 1739504642398,
+      "lastSuccess": 1739504642398
     },
     "case-internet.js": {
       "total": 4,
