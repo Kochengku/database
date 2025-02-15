@@ -65,7 +65,39 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 636
+      "exp": 691
+    },
+    "6282151105994@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 28,
+      "name": "Nisa"
     }
   },
   "chats": {
@@ -162,10 +194,10 @@
       "lastSuccess": 1739589521077
     },
     "case-downloader.js": {
-      "total": 32,
-      "success": 32,
-      "last": 1739625407991,
-      "lastSuccess": 1739625407991
+      "total": 37,
+      "success": 37,
+      "last": 1739642843914,
+      "lastSuccess": 1739642843914
     },
     "case-tools.js": {
       "total": 15,
