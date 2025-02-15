@@ -35,7 +35,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2086
+      "exp": 2099
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -96,6 +96,38 @@
       "showDash": false,
       "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
       "membership": false
+    },
+    "6281241862400@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 11,
+      "name": "hanif furqan"
     }
   },
   "chats": {
@@ -242,6 +274,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6281241862400@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -258,10 +302,10 @@
       "lastSuccess": 1739504571559
     },
     "case-downloader.js": {
-      "total": 51,
-      "success": 51,
-      "last": 1739545265078,
-      "lastSuccess": 1739545265078
+      "total": 53,
+      "success": 53,
+      "last": 1739574965761,
+      "lastSuccess": 1739574965761
     },
     "case-internet.js": {
       "total": 4,
