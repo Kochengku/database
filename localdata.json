@@ -65,9 +65,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 990
+      "exp": 1049
     },
-    "60162380764@s.whatsapp.net": {
+    "6283127564107@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -96,9 +96,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 5
+      "exp": 1
     },
-    "6287840804144@s.whatsapp.net": {
+    "6285274910560@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -127,8 +127,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 16,
-      "name": "c"
+      "exp": 8
     },
     "6289658899268@s.whatsapp.net": {
       "regTime": -1,
@@ -159,7 +158,39 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 4
+      "exp": 10,
+      "name": "briliant🌟"
+    },
+    "60162380764@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 3
     }
   },
   "chats": {
@@ -304,10 +335,10 @@
       "lastSuccess": 1739589521077
     },
     "case-downloader.js": {
-      "total": 56,
-      "success": 56,
-      "last": 1739707392266,
-      "lastSuccess": 1739707392266
+      "total": 61,
+      "success": 61,
+      "last": 1739717451646,
+      "lastSuccess": 1739717451646
     },
     "case-tools.js": {
       "total": 23,
