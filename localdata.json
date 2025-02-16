@@ -65,9 +65,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 929
+      "exp": 971
     },
-    "60162380764@s.whatsapp.net": {
+    "6281563468361@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -96,8 +96,69 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 13,
-      "name": "— Anti Romantic"
+      "exp": 9
+    },
+    "6283127564107@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 6
+    },
+    "6283140769876@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 7
     }
   },
   "chats": {
@@ -218,16 +279,16 @@
       "lastSuccess": 1739589521077
     },
     "case-downloader.js": {
-      "total": 52,
-      "success": 52,
-      "last": 1739686568747,
-      "lastSuccess": 1739686568747
+      "total": 54,
+      "success": 54,
+      "last": 1739696021534,
+      "lastSuccess": 1739696021534
     },
     "case-tools.js": {
-      "total": 21,
-      "success": 21,
-      "last": 1739677927954,
-      "lastSuccess": 1739677927954
+      "total": 22,
+      "success": 22,
+      "last": 1739693705068,
+      "lastSuccess": 1739693705068
     },
     "sistem-menu.js": {
       "total": 6,
