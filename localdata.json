@@ -29,7 +29,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 58,
+      "exp": 61,
       "name": "Dodolz"
     },
     "62895387699993@s.whatsapp.net": {
@@ -65,7 +65,39 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 743
+      "exp": 803
+    },
+    "6287877444230@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 13,
+      "name": "a"
     }
   },
   "chats": {
@@ -164,6 +196,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6287877444230@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -174,10 +218,10 @@
       "lastSuccess": 1739589521077
     },
     "case-downloader.js": {
-      "total": 38,
-      "success": 38,
-      "last": 1739656931540,
-      "lastSuccess": 1739656931540
+      "total": 42,
+      "success": 42,
+      "last": 1739675131214,
+      "lastSuccess": 1739675131214
     },
     "case-tools.js": {
       "total": 19,
@@ -190,6 +234,12 @@
       "success": 6,
       "last": 1739656616512,
       "lastSuccess": 1739656616512
+    },
+    "case-internet.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1739675213471,
+      "lastSuccess": 1739675213471
     }
   },
   "msgs": {},
