@@ -65,9 +65,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1426
+      "exp": 1479
     },
-    "6289658899268@s.whatsapp.net": {
+    "6282151105994@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -96,8 +96,39 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 14,
-      "name": "briliant🌟"
+      "exp": 2
+    },
+    "6285244692516@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": true,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 28,
+      "stamina": 0,
+      "exp": 69,
+      "name": "reza"
     }
   },
   "chats": {
@@ -256,20 +287,32 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6285244692516@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "other-rpg_register.js": {
-      "total": 7,
-      "success": 5,
-      "last": 1739589521077,
-      "lastSuccess": 1739589521077
+      "total": 8,
+      "success": 6,
+      "last": 1739840123436,
+      "lastSuccess": 1739840123436
     },
     "case-downloader.js": {
-      "total": 90,
-      "success": 89,
-      "last": 1739808112018,
-      "lastSuccess": 1739808112018
+      "total": 91,
+      "success": 90,
+      "last": 1739835937170,
+      "lastSuccess": 1739835937170
     },
     "case-tools.js": {
       "total": 23,
@@ -278,10 +321,10 @@
       "lastSuccess": 1739704610679
     },
     "sistem-menu.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1739790357030,
-      "lastSuccess": 1739790357030
+      "total": 11,
+      "success": 11,
+      "last": 1739840140814,
+      "lastSuccess": 1739840140814
     },
     "case-internet.js": {
       "total": 3,
