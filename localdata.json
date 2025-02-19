@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2757
+      "exp": 2850
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -98,6 +98,70 @@
       "stamina": 0,
       "exp": 69,
       "name": "reza"
+    },
+    "6285857218079@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 17,
+      "name": "Z"
+    },
+    "6283115745579@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 24,
+      "name": "Ya Al"
     }
   },
   "chats": {
@@ -326,16 +390,16 @@
       "lastSuccess": 1739918726735
     },
     "case-downloader.js": {
-      "total": 168,
-      "success": 167,
-      "last": 1739921147083,
-      "lastSuccess": 1739921147083
+      "total": 171,
+      "success": 170,
+      "last": 1739940271329,
+      "lastSuccess": 1739940271329
     },
     "case-tools.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1739704610679,
-      "lastSuccess": 1739704610679
+      "total": 30,
+      "success": 30,
+      "last": 1739938037264,
+      "lastSuccess": 1739938037264
     },
     "sistem-menu.js": {
       "total": 12,
