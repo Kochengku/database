@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2929
+      "exp": 2974
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -99,11 +99,11 @@
       "exp": 69,
       "name": "reza"
     },
-    "6285656192183@s.whatsapp.net": {
+    "6288991662120@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
-      "registered": false,
+      "registered": true,
       "membership": false,
       "hidename": false,
       "showDash": false,
@@ -126,72 +126,10 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 30,
+      "limitchat": 29,
       "stamina": 0,
-      "exp": 4
-    },
-    "60162380764@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 20,
-      "name": "— Anti Romantic"
-    },
-    "6285351391935@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 8
+      "exp": 49,
+      "name": "𝙆𝙖𝙮𝙯𝙚𝙣𝙣𝙣"
     }
   },
   "chats": {
@@ -410,14 +348,26 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6288991662120@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "other-rpg_register.js": {
-      "total": 9,
-      "success": 7,
-      "last": 1739918726735,
-      "lastSuccess": 1739918726735
+      "total": 10,
+      "success": 8,
+      "last": 1739971513435,
+      "lastSuccess": 1739971513435
     },
     "case-downloader.js": {
       "total": 177,
@@ -426,22 +376,28 @@
       "lastSuccess": 1739965735131
     },
     "case-tools.js": {
-      "total": 30,
-      "success": 30,
-      "last": 1739938037264,
-      "lastSuccess": 1739938037264
+      "total": 31,
+      "success": 31,
+      "last": 1739974627480,
+      "lastSuccess": 1739974627480
     },
     "sistem-menu.js": {
-      "total": 12,
-      "success": 12,
-      "last": 1739918715500,
-      "lastSuccess": 1739918715500
+      "total": 15,
+      "success": 15,
+      "last": 1739971542282,
+      "lastSuccess": 1739971542282
     },
     "case-internet.js": {
       "total": 3,
       "success": 3,
       "last": 1739678175651,
       "lastSuccess": 1739678175651
+    },
+    "case-group.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1739971546861,
+      "lastSuccess": 1739971546861
     }
   },
   "msgs": {},
