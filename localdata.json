@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2743
+      "exp": 2757
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -126,10 +126,9 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 29,
+      "limitchat": 30,
       "stamina": 0,
-      "exp": 15,
-      "name": "Z"
+      "exp": 10
     }
   },
   "chats": {
@@ -358,10 +357,10 @@
       "lastSuccess": 1739918726735
     },
     "case-downloader.js": {
-      "total": 167,
-      "success": 166,
-      "last": 1739886608361,
-      "lastSuccess": 1739886608361
+      "total": 168,
+      "success": 167,
+      "last": 1739921147083,
+      "lastSuccess": 1739921147083
     },
     "case-tools.js": {
       "total": 23,
