@@ -29,7 +29,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 91,
+      "exp": 99,
       "name": "Dodolz"
     },
     "62895387699993@s.whatsapp.net": {
@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2866
+      "exp": 2896
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -99,7 +99,7 @@
       "exp": 69,
       "name": "reza"
     },
-    "60162380764@s.whatsapp.net": {
+    "6285656192183@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -128,7 +128,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 5
+      "exp": 5,
+      "name": "gtw"
     }
   },
   "chats": {
@@ -357,10 +358,10 @@
       "lastSuccess": 1739918726735
     },
     "case-downloader.js": {
-      "total": 172,
-      "success": 171,
-      "last": 1739947033720,
-      "lastSuccess": 1739947033720
+      "total": 174,
+      "success": 173,
+      "last": 1739951346908,
+      "lastSuccess": 1739951346908
     },
     "case-tools.js": {
       "total": 30,
