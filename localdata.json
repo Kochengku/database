@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 3352
+      "exp": 3364
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -131,7 +131,7 @@
       "exp": 149,
       "name": "𝙆𝙖𝙮𝙯𝙚𝙣𝙣𝙣"
     },
-    "60162380764@s.whatsapp.net": {
+    "60134588208@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -160,40 +160,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 23,
-      "name": "— Anti Romantic"
-    },
-    "6289671155309@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 17,
-      "name": "sandika"
+      "exp": 1
     }
   },
   "chats": {
@@ -446,10 +413,10 @@
       "lastSuccess": 1739971513435
     },
     "case-downloader.js": {
-      "total": 206,
-      "success": 205,
-      "last": 1740070801088,
-      "lastSuccess": 1740070801088
+      "total": 207,
+      "success": 206,
+      "last": 1740072491276,
+      "lastSuccess": 1740072491276
     },
     "case-tools.js": {
       "total": 32,
