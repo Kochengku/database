@@ -29,7 +29,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 173,
+      "exp": 180,
       "name": "Dodolz"
     },
     "62895387699993@s.whatsapp.net": {
@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 3516
+      "exp": 3576
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -131,7 +131,7 @@
       "exp": 149,
       "name": "𝙆𝙖𝙮𝙯𝙚𝙣𝙣𝙣"
     },
-    "60134588208@s.whatsapp.net": {
+    "6285890245811@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -160,10 +160,10 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 6,
-      "name": "qeel."
+      "exp": 7,
+      "name": "shopgamefinzz"
     },
-    "60162380764@s.whatsapp.net": {
+    "6282134292754@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -192,8 +192,39 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 17,
-      "name": "— Anti Romantic"
+      "exp": 10
+    },
+    "6282165070660@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": true,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 28,
+      "stamina": 0,
+      "exp": 52,
+      "name": "marss"
     }
   },
   "chats": {
@@ -436,6 +467,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6282165070660@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -446,10 +489,10 @@
       "lastSuccess": 1739971513435
     },
     "case-downloader.js": {
-      "total": 214,
-      "success": 213,
-      "last": 1740119874740,
-      "lastSuccess": 1740119874740
+      "total": 215,
+      "success": 214,
+      "last": 1740125897563,
+      "lastSuccess": 1740125897563
     },
     "case-tools.js": {
       "total": 39,
@@ -458,10 +501,10 @@
       "lastSuccess": 1740114696349
     },
     "sistem-menu.js": {
-      "total": 16,
-      "success": 16,
-      "last": 1740055461469,
-      "lastSuccess": 1740055461469
+      "total": 20,
+      "success": 20,
+      "last": 1740126448429,
+      "lastSuccess": 1740126448429
     },
     "case-internet.js": {
       "total": 3,
