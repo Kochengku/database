@@ -29,7 +29,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 145,
+      "exp": 173,
       "name": "Dodolz"
     },
     "62895387699993@s.whatsapp.net": {
@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 3477
+      "exp": 3516
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -160,70 +160,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1
-    },
-    "6285274910560@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 2
-    },
-    "6283115745579@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 30,
-      "name": "Ya Al"
+      "exp": 6,
+      "name": "qeel."
     },
     "60162380764@s.whatsapp.net": {
       "regTime": -1,
@@ -254,7 +192,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 6
+      "exp": 17,
+      "name": "— Anti Romantic"
     }
   },
   "chats": {
@@ -507,16 +446,16 @@
       "lastSuccess": 1739971513435
     },
     "case-downloader.js": {
-      "total": 212,
-      "success": 211,
-      "last": 1740111140958,
-      "lastSuccess": 1740111140958
+      "total": 214,
+      "success": 213,
+      "last": 1740119874740,
+      "lastSuccess": 1740119874740
     },
     "case-tools.js": {
-      "total": 37,
-      "success": 37,
-      "last": 1740109881147,
-      "lastSuccess": 1740109881147
+      "total": 39,
+      "success": 39,
+      "last": 1740114696349,
+      "lastSuccess": 1740114696349
     },
     "sistem-menu.js": {
       "total": 16,
