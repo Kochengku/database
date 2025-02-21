@@ -29,7 +29,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 180,
+      "exp": 202,
       "name": "Dodolz"
     },
     "62895387699993@s.whatsapp.net": {
@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 3615
+      "exp": 3671
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -163,7 +163,39 @@
       "exp": 52,
       "name": "marss"
     },
-    "6285857218079@s.whatsapp.net": {
+    "6283806851792@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 22,
+      "name": "."
+    },
+    "60162380764@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -194,6 +226,38 @@
       "stamina": 0,
       "exp": 4
     },
+    "6283821171236@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 3,
+      "name": "WISNO  ▶︎•|၊|။||||။၊|။|||"
+    },
     "60134588208@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
@@ -223,8 +287,40 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 6,
+      "exp": 14,
       "name": "qeel."
+    },
+    "6287840804144@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 8,
+      "name": "c"
     }
   },
   "chats": {
@@ -489,16 +585,16 @@
       "lastSuccess": 1739971513435
     },
     "case-downloader.js": {
-      "total": 216,
-      "success": 215,
-      "last": 1740132491038,
-      "lastSuccess": 1740132491038
+      "total": 220,
+      "success": 219,
+      "last": 1740142624471,
+      "lastSuccess": 1740142624471
     },
     "case-tools.js": {
-      "total": 41,
-      "success": 41,
-      "last": 1740133002223,
-      "lastSuccess": 1740133002223
+      "total": 42,
+      "success": 42,
+      "last": 1740140262174,
+      "lastSuccess": 1740140262174
     },
     "sistem-menu.js": {
       "total": 20,
