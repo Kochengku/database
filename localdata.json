@@ -29,7 +29,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 268,
+      "exp": 298,
       "name": "Dodolz"
     },
     "62895387699993@s.whatsapp.net": {
@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 4307
+      "exp": 4400
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -163,37 +163,6 @@
       "exp": 52,
       "name": "marss"
     },
-    "6287840804144@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 10
-    },
     "6281553921994@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
@@ -226,6 +195,38 @@
       "exp": 62,
       "name": "Skibidi🚽"
     },
+    "60162380764@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 11,
+      "name": "— Anti Romantic"
+    },
     "6283140769876@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
@@ -255,8 +256,39 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 19,
-      "name": "심재윤"
+      "exp": 8
+    },
+    "6283127564107@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 7,
+      "name": "?"
     },
     "60134588208@s.whatsapp.net": {
       "regTime": -1,
@@ -287,10 +319,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 5,
-      "name": "qeel."
+      "exp": 3
     },
-    "60162380764@s.whatsapp.net": {
+    "6283176331401@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -319,7 +350,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 4
+      "exp": 29,
+      "name": "unknown"
     }
   },
   "chats": {
@@ -608,16 +640,16 @@
       "lastSuccess": 1739971513435
     },
     "case-downloader.js": {
-      "total": 268,
-      "success": 265,
-      "last": 1740230047879,
-      "lastSuccess": 1740230047879
+      "total": 274,
+      "success": 271,
+      "last": 1740237878735,
+      "lastSuccess": 1740237878735
     },
     "case-tools.js": {
-      "total": 49,
-      "success": 49,
-      "last": 1740227661548,
-      "lastSuccess": 1740227661548
+      "total": 52,
+      "success": 52,
+      "last": 1740241083402,
+      "lastSuccess": 1740241083402
     },
     "sistem-menu.js": {
       "total": 24,
@@ -636,6 +668,12 @@
       "success": 4,
       "last": 1740044733752,
       "lastSuccess": 1740044733752
+    },
+    "other-owner_exec.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1740238513339,
+      "lastSuccess": 1740238513339
     }
   },
   "msgs": {},
