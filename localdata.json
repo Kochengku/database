@@ -29,7 +29,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 211,
+      "exp": 216,
       "name": "Dodolz"
     },
     "62895387699993@s.whatsapp.net": {
@@ -44,9 +44,7 @@
       "codemail": "",
       "email": "",
       "password": "",
-      "listfeature": [
-        "tt"
-      ],
+      "listfeature": [],
       "datamail": [
         "2",
         "Kenry",
@@ -61,13 +59,13 @@
       "masasewa": 0,
       "lasttrx": 0,
       "hargabarang": 0,
-      "featureerror": 1,
+      "featureerror": 0,
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 4067
+      "exp": 4183
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -165,7 +163,7 @@
       "exp": 52,
       "name": "marss"
     },
-    "60162380764@s.whatsapp.net": {
+    "6283176331401@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -194,71 +192,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1
-    },
-    "6287840804144@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 4,
-      "name": "c"
-    },
-    "6287841308086@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 130,
-      "name": "bébé"
+      "exp": 18,
+      "name": "unknown"
     },
     "6285656192183@s.whatsapp.net": {
       "regTime": -1,
@@ -289,7 +224,72 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 4
+      "exp": 20,
+      "name": "gtw"
+    },
+    "6289658899268@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 8,
+      "name": "briliant🌟"
+    },
+    "60134588208@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 12,
+      "name": "qeel."
     }
   },
   "chats": {
@@ -544,6 +544,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6283176331401@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -554,16 +566,16 @@
       "lastSuccess": 1739971513435
     },
     "case-downloader.js": {
-      "total": 253,
-      "success": 251,
-      "last": 1740201901469,
-      "lastSuccess": 1740201901469
+      "total": 262,
+      "success": 259,
+      "last": 1740209106216,
+      "lastSuccess": 1740209106216
     },
     "case-tools.js": {
-      "total": 44,
-      "success": 44,
-      "last": 1740194351021,
-      "lastSuccess": 1740194351021
+      "total": 47,
+      "success": 47,
+      "last": 1740205845771,
+      "lastSuccess": 1740205845771
     },
     "sistem-menu.js": {
       "total": 20,
