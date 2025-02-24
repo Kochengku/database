@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 5232
+      "exp": 5245
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -226,6 +226,37 @@
       "stamina": 0,
       "exp": 14,
       "name": "bébé"
+    },
+    "60162380764@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 7
     }
   },
   "chats": {
@@ -538,10 +569,10 @@
       "lastSuccess": 1739971513435
     },
     "case-downloader.js": {
-      "total": 340,
-      "success": 337,
-      "last": 1740408059098,
-      "lastSuccess": 1740408059098
+      "total": 341,
+      "success": 338,
+      "last": 1740436229485,
+      "lastSuccess": 1740436229485
     },
     "case-tools.js": {
       "total": 53,
