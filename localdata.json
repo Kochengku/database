@@ -29,7 +29,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 348,
+      "exp": 357,
       "name": "Dodolz"
     },
     "62895387699993@s.whatsapp.net": {
@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 5152
+      "exp": 5192
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -227,7 +227,7 @@
       "exp": 14,
       "name": "bébé"
     },
-    "6283806851792@s.whatsapp.net": {
+    "6283140769876@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -256,10 +256,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 12,
-      "name": "."
+      "exp": 5
     },
-    "60162380764@s.whatsapp.net": {
+    "6283127564107@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -288,10 +287,41 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 25,
-      "name": "— Anti Romantic"
+      "exp": 1
     },
-    "6287840804144@s.whatsapp.net": {
+    "6289658899268@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 29,
+      "stamina": 0,
+      "exp": 4,
+      "name": "briliant"
+    },
+    "60134588208@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -320,8 +350,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 11,
-      "name": "c"
+      "exp": 7
     }
   },
   "chats": {
@@ -622,22 +651,22 @@
       "lastSuccess": 1739971513435
     },
     "case-downloader.js": {
-      "total": 333,
-      "success": 330,
-      "last": 1740393840539,
-      "lastSuccess": 1740393840539
+      "total": 335,
+      "success": 332,
+      "last": 1740399012653,
+      "lastSuccess": 1740399012653
     },
     "case-tools.js": {
-      "total": 52,
-      "success": 52,
-      "last": 1740241083402,
-      "lastSuccess": 1740241083402
+      "total": 53,
+      "success": 53,
+      "last": 1740396826018,
+      "lastSuccess": 1740396826018
     },
     "sistem-menu.js": {
-      "total": 29,
-      "success": 29,
-      "last": 1740387036901,
-      "lastSuccess": 1740387036901
+      "total": 30,
+      "success": 30,
+      "last": 1740398201995,
+      "lastSuccess": 1740398201995
     },
     "case-internet.js": {
       "total": 3,
