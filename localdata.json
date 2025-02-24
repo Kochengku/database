@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 4859
+      "exp": 4870
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -194,6 +194,37 @@
       "stamina": 0,
       "exp": 62,
       "name": "Skibidi🚽"
+    },
+    "6283176331401@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 9
     }
   },
   "chats": {
@@ -494,10 +525,10 @@
       "lastSuccess": 1739971513435
     },
     "case-downloader.js": {
-      "total": 313,
-      "success": 310,
-      "last": 1740325752737,
-      "lastSuccess": 1740325752737
+      "total": 314,
+      "success": 311,
+      "last": 1740356109729,
+      "lastSuccess": 1740356109729
     },
     "case-tools.js": {
       "total": 52,
