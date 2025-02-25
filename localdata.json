@@ -65,7 +65,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 5245
+      "exp": 5259
     },
     "6285244692516@s.whatsapp.net": {
       "regTime": -1,
@@ -227,7 +227,7 @@
       "exp": 14,
       "name": "bébé"
     },
-    "60162380764@s.whatsapp.net": {
+    "6287840804144@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -256,7 +256,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 7
+      "exp": 5,
+      "name": "c"
     }
   },
   "chats": {
@@ -569,10 +570,10 @@
       "lastSuccess": 1739971513435
     },
     "case-downloader.js": {
-      "total": 341,
-      "success": 338,
-      "last": 1740436229485,
-      "lastSuccess": 1740436229485
+      "total": 342,
+      "success": 339,
+      "last": 1740442461108,
+      "lastSuccess": 1740442461108
     },
     "case-tools.js": {
       "total": 53,
