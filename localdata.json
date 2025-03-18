@@ -29,9 +29,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 359
+      "exp": 366
     },
-    "6288991662120@s.whatsapp.net": {
+    "6287841308086@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -60,9 +60,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2
+      "exp": 5
     },
-    "6283871825052@s.whatsapp.net": {
+    "6283127564107@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -238,6 +238,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6287841308086@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -264,6 +276,12 @@
       "success": 5,
       "last": 1742313525899,
       "lastSuccess": 1742313525899
+    },
+    "case-tools.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1742338786956,
+      "lastSuccess": 1742338786956
     }
   },
   "msgs": {},
