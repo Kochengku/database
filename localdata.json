@@ -29,9 +29,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 366
+      "exp": 423
     },
-    "6285766202936@s.whatsapp.net": {
+    "6283140769876@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -60,7 +60,40 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 9
+      "exp": 23,
+      "name": "심재윤"
+    },
+    "6283871825052@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "hidename": false,
+      "showDash": false,
+      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 25,
+      "name": "ruine"
     }
   },
   "chats": {
@@ -241,10 +274,10 @@
       "lastSuccess": 1742313325099
     },
     "case-downloader.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1742298402489,
-      "lastSuccess": 1742298402489
+      "total": 10,
+      "success": 10,
+      "last": 1742360677588,
+      "lastSuccess": 1742360677588
     },
     "case-group.js": {
       "total": 3,
