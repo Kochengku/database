@@ -31,9 +31,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 724
+      "exp": 746
     },
-    "6283140769876@s.whatsapp.net": {
+    "6283127564107@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -62,9 +62,10 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 10
+      "exp": 15,
+      "name": "rin"
     },
-    "6283871825052@s.whatsapp.net": {
+    "6282151105994@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -93,69 +94,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 4
-    },
-    "60162380764@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 9
-    },
-    "6289521278641@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "hidename": false,
-      "showDash": false,
-      "borderurl": "https://storage.netorare.codes/f/d79ac68919a489cecae0939143b658d7.jpg",
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 2
+      "exp": 8,
+      "name": "Nisa"
     }
   },
   "chats": {
@@ -372,10 +312,10 @@
       "lastSuccess": 1742372778585
     },
     "case-downloader.js": {
-      "total": 29,
-      "success": 29,
-      "last": 1742446396535,
-      "lastSuccess": 1742446396535
+      "total": 31,
+      "success": 31,
+      "last": 1742453082949,
+      "lastSuccess": 1742453082949
     },
     "case-group.js": {
       "total": 3,
