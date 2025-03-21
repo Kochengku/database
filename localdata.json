@@ -28,35 +28,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 139
-    },
-    "6287877444230@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 2
+      "exp": 150
     }
   },
   "chats": {
@@ -135,10 +107,10 @@
       "lastSuccess": 0
     },
     "case-downloader.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1742549109599,
-      "lastSuccess": 1742549109599
+      "total": 4,
+      "success": 4,
+      "last": 1742549306133,
+      "lastSuccess": 1742549306133
     }
   },
   "msgs": {},
