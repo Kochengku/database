@@ -1,63 +1,5 @@
 {
   "users": {
-    "6283183852946@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 1,
-      "lastreport": 1,
-      "money": 1000,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 1551,
-      "name": "CS. Kocheng's"
-    },
-    "6281775155057@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 12,
-      "name": "Dodolz"
-    },
     "62895387699993@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
@@ -86,38 +28,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 129
+      "exp": 139
     },
-    "6283176331401@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 29,
-      "stamina": 0,
-      "exp": 24,
-      "name": "unknown"
-    },
-    "62895801869050@s.whatsapp.net": {
+    "6287877444230@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -143,8 +56,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 34,
-      "name": "Karoko Akira Ch."
+      "exp": 2
     }
   },
   "chats": {
@@ -195,6 +107,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6287877444230@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -211,10 +135,10 @@
       "lastSuccess": 0
     },
     "case-downloader.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1742535087782,
-      "lastSuccess": 1742535087782
+      "total": 3,
+      "success": 3,
+      "last": 1742549109599,
+      "lastSuccess": 1742549109599
     }
   },
   "msgs": {},
