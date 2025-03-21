@@ -28,35 +28,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 316
-    },
-    "6283140769876@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 4
+      "exp": 414
     },
     "6287840804144@s.whatsapp.net": {
       "regTime": -1,
@@ -84,9 +56,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 9
+      "exp": 8
     },
-    "6285624397146@s.whatsapp.net": {
+    "6288287380347@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -112,10 +84,38 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 13,
-      "name": "nacaa🐣"
+      "exp": 4
     },
-    "60162380764@s.whatsapp.net": {
+    "6287841308086@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": true,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 26,
+      "stamina": 0,
+      "exp": 88,
+      "name": "bee 🐝"
+    },
+    "6283140769876@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -141,36 +141,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2
-    },
-    "6282118926314@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 1,
-      "lastreport": 1,
-      "money": 1000,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 1549,
-      "name": "Rahmat"
+      "exp": 19,
+      "name": "심재윤"
     }
   },
   "chats": {
@@ -257,14 +229,38 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6288287380347@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
+    },
+    "6287841308086@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "sistem-menu.js": {
-      "total": 5,
-      "success": 2,
-      "last": 1742562349341,
-      "lastSuccess": 1742562349341
+      "total": 9,
+      "success": 6,
+      "last": 1742567704886,
+      "lastSuccess": 1742567704886
     },
     "tes.js": {
       "total": 6,
@@ -273,10 +269,10 @@
       "lastSuccess": 0
     },
     "case-downloader.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1742562438484,
-      "lastSuccess": 1742562438484
+      "total": 14,
+      "success": 14,
+      "last": 1742568181218,
+      "lastSuccess": 1742568181218
     }
   },
   "msgs": {},
