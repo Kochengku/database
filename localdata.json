@@ -12,7 +12,17 @@
       "listfeature": [
         "tes"
       ],
-      "datamail": [],
+      "datamail": [
+        "2",
+        "iposseyinn@gmail.com",
+        "2",
+        "ha",
+        "lah",
+        "2 iposseyinn@gmail.com",
+        "",
+        "2",
+        "iposseyinn@gmail.com"
+      ],
       "daccount": false,
       "daccount2": false,
       "statustrx": "",
@@ -28,7 +38,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1690
+      "exp": 2007
     },
     "6287841308086@s.whatsapp.net": {
       "regTime": -1,
@@ -87,6 +97,92 @@
       "stamina": 0,
       "exp": 129,
       "name": "—jihánzw`artな"
+    },
+    "6283127564107@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 8,
+      "name": "rin"
+    },
+    "60134588208@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 10
+    },
+    "6285656192183@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "461716",
+      "email": "iposseyinn@gmail.com",
+      "password": "461716",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 26,
+      "name": "yn"
     }
   },
   "chats": {
@@ -293,6 +389,30 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "60134588208@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
+    },
+    "6285656192183@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -327,10 +447,10 @@
       "lastSuccess": 1742604875551
     },
     "plugins/sistem-menu": {
-      "total": 8,
-      "success": 8,
-      "last": 1742626968312,
-      "lastSuccess": 1742626968312
+      "total": 16,
+      "success": 16,
+      "last": 1742665058561,
+      "lastSuccess": 1742665058561
     },
     "plugins/case-downloader": {
       "total": 3,
@@ -351,16 +471,28 @@
       "lastSuccess": 1742614999425
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 16,
-      "success": 16,
-      "last": 1742648849583,
-      "lastSuccess": 1742648849583
+      "total": 19,
+      "success": 19,
+      "last": 1742662789687,
+      "lastSuccess": 1742662789687
     },
     "plugins/Kocheng-Tools/case-tools": {
       "total": 2,
       "success": 2,
       "last": 1742626982438,
       "lastSuccess": 1742626982438
+    },
+    "plugins/Kocheng-Rpg/other-rpg_register": {
+      "total": 9,
+      "success": 9,
+      "last": 1742664790296,
+      "lastSuccess": 1742664790296
+    },
+    "plugins/Kocheng-Game/case-game": {
+      "total": 3,
+      "success": 3,
+      "last": 1742665014084,
+      "lastSuccess": 1742665014084
     }
   },
   "msgs": {},
