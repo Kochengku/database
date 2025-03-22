@@ -28,7 +28,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1661
+      "exp": 1690
     },
     "6287841308086@s.whatsapp.net": {
       "regTime": -1,
@@ -88,7 +88,7 @@
       "exp": 129,
       "name": "—jihánzw`artな"
     },
-    "6287840804144@s.whatsapp.net": {
+    "6287823409988@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -114,8 +114,37 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 10,
-      "name": "c"
+      "exp": 13,
+      "name": "`bini jay`"
+    },
+    "60194881471@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 17,
+      "name": "Arif"
     },
     "6282317410242@s.whatsapp.net": {
       "regTime": -1,
@@ -143,7 +172,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 10,
+      "exp": 7,
       "name": "Muh Aswar"
     }
   },
@@ -339,6 +368,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "60194881471@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -397,10 +438,10 @@
       "lastSuccess": 1742614999425
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 13,
-      "success": 13,
-      "last": 1742641743253,
-      "lastSuccess": 1742641743253
+      "total": 16,
+      "success": 16,
+      "last": 1742648849583,
+      "lastSuccess": 1742648849583
     },
     "plugins/Kocheng-Tools/case-tools": {
       "total": 2,
