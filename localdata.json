@@ -28,7 +28,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1186
+      "exp": 1219
     },
     "6287841308086@s.whatsapp.net": {
       "regTime": -1,
@@ -88,7 +88,7 @@
       "exp": 129,
       "name": "—jihánzw`artな"
     },
-    "6282151105994@s.whatsapp.net": {
+    "6288287380347@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -114,65 +114,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 43,
-      "name": "Nisa"
-    },
-    "6287823409988@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 3
-    },
-    "6282317410242@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 33,
-      "name": "Muh Aswar"
+      "exp": 19,
+      "name": "."
     }
   },
   "chats": {
@@ -345,6 +288,12 @@
       "success": 3,
       "last": 1742572533500,
       "lastSuccess": 1742572533500
+    },
+    "case-tools.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1742604875551,
+      "lastSuccess": 1742604875551
     }
   },
   "msgs": {},
