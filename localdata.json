@@ -28,7 +28,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1638
+      "exp": 1661
     },
     "6287841308086@s.whatsapp.net": {
       "regTime": -1,
@@ -88,7 +88,7 @@
       "exp": 129,
       "name": "—jihánzw`artな"
     },
-    "60162380764@s.whatsapp.net": {
+    "6287840804144@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -114,39 +114,10 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 14,
-      "name": "— Anti Romantic"
+      "exp": 10,
+      "name": "c"
     },
-    "6283176331401@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 29,
-      "stamina": 0,
-      "exp": 45,
-      "name": "unknown"
-    },
-    "6285274910560@s.whatsapp.net": {
+    "6282317410242@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -172,65 +143,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 8
-    },
-    "6282118926314@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 1,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 28,
-      "stamina": 0,
-      "exp": 47,
-      "name": "Rahmat"
-    },
-    "6281775155057@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 17,
-      "name": "Dodolz"
+      "exp": 10,
+      "name": "Muh Aswar"
     }
   },
   "chats": {
@@ -483,10 +397,10 @@
       "lastSuccess": 1742614999425
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 11,
-      "success": 11,
-      "last": 1742630647037,
-      "lastSuccess": 1742630647037
+      "total": 13,
+      "success": 13,
+      "last": 1742641743253,
+      "lastSuccess": 1742641743253
     },
     "plugins/Kocheng-Tools/case-tools": {
       "total": 2,
