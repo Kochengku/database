@@ -28,7 +28,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1518
+      "exp": 1638
     },
     "6287841308086@s.whatsapp.net": {
       "regTime": -1,
@@ -88,7 +88,7 @@
       "exp": 129,
       "name": "—jihánzw`artな"
     },
-    "6283140769876@s.whatsapp.net": {
+    "60162380764@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -114,10 +114,39 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 8,
-      "name": "심재윤"
+      "exp": 14,
+      "name": "— Anti Romantic"
     },
-    "6282317410242@s.whatsapp.net": {
+    "6283176331401@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 29,
+      "stamina": 0,
+      "exp": 45,
+      "name": "unknown"
+    },
+    "6285274910560@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -143,10 +172,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 21,
-      "name": "Muh Aswar"
+      "exp": 8
     },
-    "6281775155057@s.whatsapp.net": {
+    "6282118926314@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 1,
       "membershipTime": 0,
@@ -170,41 +198,12 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 15,
+      "limitchat": 28,
       "stamina": 0,
-      "exp": 162,
-      "name": "Dodolz"
+      "exp": 47,
+      "name": "Rahmat"
     },
-    "6283183852946@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 1,
-      "lastreport": 1,
-      "money": 1000,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 1535,
-      "name": "CS. Kocheng's"
-    },
-    "6283127564107@s.whatsapp.net": {
+    "6281775155057@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -230,8 +229,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 34,
-      "name": "rin"
+      "exp": 17,
+      "name": "Dodolz"
     }
   },
   "chats": {
@@ -414,6 +413,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "60162380764@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -448,10 +459,10 @@
       "lastSuccess": 1742604875551
     },
     "plugins/sistem-menu": {
-      "total": 5,
-      "success": 5,
-      "last": 1742615737198,
-      "lastSuccess": 1742615737198
+      "total": 8,
+      "success": 8,
+      "last": 1742626968312,
+      "lastSuccess": 1742626968312
     },
     "plugins/case-downloader": {
       "total": 3,
@@ -472,10 +483,16 @@
       "lastSuccess": 1742614999425
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 3,
-      "success": 3,
-      "last": 1742620723052,
-      "lastSuccess": 1742620723052
+      "total": 11,
+      "success": 11,
+      "last": 1742630647037,
+      "lastSuccess": 1742630647037
+    },
+    "plugins/Kocheng-Tools/case-tools": {
+      "total": 2,
+      "success": 2,
+      "last": 1742626982438,
+      "lastSuccess": 1742626982438
     }
   },
   "msgs": {},
