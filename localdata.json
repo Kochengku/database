@@ -14,7 +14,8 @@
         "2",
         "kentukimeme@gmail.com",
         "2",
-        ". kentukimeme@gmail.com"
+        "2",
+        "kucingsigma83@gmail.com"
       ],
       "daccount": false,
       "daccount2": false,
@@ -31,17 +32,17 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 122
+      "exp": 213
     },
-    "6282262978952@s.whatsapp.net": {
+    "6281775155057@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
       "registered": false,
       "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
+      "codemail": "605652",
+      "email": "kucingsigma83@gmail.com",
+      "password": "605652",
       "listfeature": "",
       "datamail": "",
       "daccount": false,
@@ -57,12 +58,12 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 29,
+      "limitchat": 30,
       "stamina": 0,
-      "exp": 12,
-      "name": "—jihánzw`artな"
+      "exp": 19,
+      "name": "Dodolz"
     },
-    "6283127564107@s.whatsapp.net": {
+    "60162380764@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -88,9 +89,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 8
+      "exp": 9
     },
-    "6287823409988@s.whatsapp.net": {
+    "62895320066694@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -116,7 +117,37 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1
+      "exp": 8,
+      "name": "onpoint"
+    },
+    "6283806851792@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 15,
+      "name": "."
     }
   },
   "chats": {
@@ -179,20 +210,56 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "60162380764@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
+    },
+    "status@broadcast": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
+    },
+    "6283806851792@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "plugins/Kocheng-Rpg/other-rpg_register": {
-      "total": 4,
-      "success": 2,
-      "last": 1742701835493,
-      "lastSuccess": 1742701835493
+      "total": 5,
+      "success": 3,
+      "last": 1742716239417,
+      "lastSuccess": 1742716239417
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 4,
-      "success": 4,
-      "last": 1742715624979,
-      "lastSuccess": 1742715624979
+      "total": 8,
+      "success": 8,
+      "last": 1742723188975,
+      "lastSuccess": 1742723188975
     },
     "plugins/sistem-menu": {
       "total": 2,
