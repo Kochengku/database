@@ -1,34 +1,5 @@
 {
   "users": {
-    "6281775155057@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "183103",
-      "email": ". kentukimeme@gmail.com",
-      "password": "183103",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 77,
-      "name": "Dodolz"
-    },
     "62895387699993@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
@@ -60,9 +31,38 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 84
+      "exp": 122
     },
-    "6287841308086@s.whatsapp.net": {
+    "6282262978952@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 29,
+      "stamina": 0,
+      "exp": 12,
+      "name": "—jihánzw`artな"
+    },
+    "6283127564107@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -88,7 +88,35 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2
+      "exp": 8
+    },
+    "6287823409988@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 1
     }
   },
   "chats": {
@@ -115,6 +143,42 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6282262978952@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
+    },
+    "6283127564107@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
+    },
+    "120363083909455879@g.us": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -125,10 +189,16 @@
       "lastSuccess": 1742701835493
     },
     "plugins/Kocheng-Downloader/case-downloader": {
+      "total": 4,
+      "success": 4,
+      "last": 1742715624979,
+      "lastSuccess": 1742715624979
+    },
+    "plugins/sistem-menu": {
       "total": 2,
       "success": 2,
-      "last": 1742708905327,
-      "lastSuccess": 1742708905327
+      "last": 1742709185366,
+      "lastSuccess": 1742709185366
     }
   },
   "msgs": {},
