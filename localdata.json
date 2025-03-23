@@ -38,7 +38,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2028
+      "exp": 2042
     },
     "6287841308086@s.whatsapp.net": {
       "regTime": -1,
@@ -98,7 +98,7 @@
       "exp": 129,
       "name": "—jihánzw`artな"
     },
-    "6285274910560@s.whatsapp.net": {
+    "6283176331401@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -124,8 +124,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 30,
-      "name": "𝐃𝐢𝐬𝐢𝐧𝐢𝐭𝐢𝐲𝐨 ❤️‍🔥💐🌻"
+      "exp": 4
     }
   },
   "chats": {
@@ -414,10 +413,10 @@
       "lastSuccess": 1742614999425
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 19,
-      "success": 19,
-      "last": 1742662789687,
-      "lastSuccess": 1742662789687
+      "total": 20,
+      "success": 20,
+      "last": 1742687580539,
+      "lastSuccess": 1742687580539
     },
     "plugins/Kocheng-Tools/case-tools": {
       "total": 2,
