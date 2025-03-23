@@ -32,9 +32,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 282
+      "exp": 305
     },
-    "60162380764@s.whatsapp.net": {
+    "6287841308086@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -62,7 +62,7 @@
       "stamina": 0,
       "exp": 10
     },
-    "6283140769876@s.whatsapp.net": {
+    "6283806851792@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -88,36 +88,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 18,
-      "name": "심재윤"
-    },
-    "6285656192183@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 6
+      "exp": 8,
+      "name": "."
     }
   },
   "chats": {
@@ -250,10 +222,10 @@
       "lastSuccess": 1742716239417
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 11,
-      "success": 11,
-      "last": 1742738666961,
-      "lastSuccess": 1742738666961
+      "total": 13,
+      "success": 13,
+      "last": 1742748324649,
+      "lastSuccess": 1742748324649
     },
     "plugins/sistem-menu": {
       "total": 3,
