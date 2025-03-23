@@ -32,9 +32,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 213
+      "exp": 248
     },
-    "6288991662120@s.whatsapp.net": {
+    "6287840804144@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -60,10 +60,10 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 8,
-      "name": "𝙐𝙯𝙢 𝙉𝙖𝙧𝙪𝙩𝙤"
+      "exp": 19,
+      "name": "c"
     },
-    "6281215442646@s.whatsapp.net": {
+    "6282118926314@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -89,7 +89,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 3
+      "exp": 2
     }
   },
   "chats": {
@@ -188,6 +188,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6287840804144@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -198,16 +210,16 @@
       "lastSuccess": 1742716239417
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 8,
-      "success": 8,
-      "last": 1742723188975,
-      "lastSuccess": 1742723188975
+      "total": 10,
+      "success": 10,
+      "last": 1742737153915,
+      "lastSuccess": 1742737153915
     },
     "plugins/sistem-menu": {
-      "total": 2,
-      "success": 2,
-      "last": 1742709185366,
-      "lastSuccess": 1742709185366
+      "total": 3,
+      "success": 3,
+      "last": 1742732697615,
+      "lastSuccess": 1742732697615
     }
   },
   "msgs": {},
