@@ -1,5 +1,34 @@
 {
   "users": {
+    "6281775155057@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "183103",
+      "email": ". kentukimeme@gmail.com",
+      "password": "183103",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 77,
+      "name": "Dodolz"
+    },
     "62895387699993@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
@@ -9,19 +38,12 @@
       "codemail": "",
       "email": "",
       "password": "",
-      "listfeature": [
-        "tes"
-      ],
+      "listfeature": [],
       "datamail": [
         "2",
-        "iposseyinn@gmail.com",
+        "kentukimeme@gmail.com",
         "2",
-        "ha",
-        "lah",
-        "2 iposseyinn@gmail.com",
-        "",
-        "2",
-        "iposseyinn@gmail.com"
+        ". kentukimeme@gmail.com"
       ],
       "daccount": false,
       "daccount2": false,
@@ -32,73 +54,15 @@
       "masasewa": 0,
       "lasttrx": 0,
       "hargabarang": 0,
-      "featureerror": 1,
+      "featureerror": 0,
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2042
+      "exp": 84
     },
     "6287841308086@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": true,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 26,
-      "stamina": 0,
-      "exp": 88,
-      "name": "bee 🐝"
-    },
-    "6282262978952@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": true,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 26,
-      "stamina": 0,
-      "exp": 129,
-      "name": "—jihánzw`artな"
-    },
-    "6281775155057@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -124,95 +88,11 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 7
+      "exp": 2
     }
   },
   "chats": {
-    "6283183852946@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
     "6281775155057@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6283176331401@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "120363083909455879@g.us": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6287877444230@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6287840804144@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6282118926314@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6288287380347@s.whatsapp.net": {
       "isBanned": false,
       "detect": false,
       "adonly": false,
@@ -235,206 +115,20 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
-    },
-    "6282317410242@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6282262978952@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6283806851792@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6283140769876@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "120363400959991894@g.us": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6283127564107@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "60162380764@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "60194881471@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "60134588208@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
-    },
-    "6285656192183@s.whatsapp.net": {
-      "isBanned": false,
-      "detect": false,
-      "adonly": false,
-      "welcome": false,
-      "rpg": false,
-      "antiLinkRendah": false,
-      "antiLinkSedang": false,
-      "antiLinkTinggi": false,
-      "antiToxic": false,
-      "expired": 0
     }
   },
   "stats": {
-    "sistem-menu.js": {
-      "total": 17,
-      "success": 13,
-      "last": 1742610901613,
-      "lastSuccess": 1742610901613
-    },
-    "tes.js": {
-      "total": 9,
-      "success": 0,
-      "last": 1742611257502,
-      "lastSuccess": 0
-    },
-    "case-downloader.js": {
-      "total": 30,
-      "success": 30,
-      "last": 1742612784228,
-      "lastSuccess": 1742612784228
-    },
-    "case-game.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1742572533500,
-      "lastSuccess": 1742572533500
-    },
-    "case-tools.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1742604875551,
-      "lastSuccess": 1742604875551
-    },
-    "plugins/sistem-menu": {
-      "total": 16,
-      "success": 16,
-      "last": 1742665058561,
-      "lastSuccess": 1742665058561
-    },
-    "plugins/case-downloader": {
-      "total": 3,
-      "success": 3,
-      "last": 1742613717053,
-      "lastSuccess": 1742613717053
-    },
-    "plugins/tes": {
-      "total": 9,
-      "success": 9,
-      "last": 1742614884634,
-      "lastSuccess": 1742614884634
-    },
-    "plugins/Tes/tes": {
-      "total": 3,
-      "success": 3,
-      "last": 1742614999425,
-      "lastSuccess": 1742614999425
+    "plugins/Kocheng-Rpg/other-rpg_register": {
+      "total": 4,
+      "success": 2,
+      "last": 1742701835493,
+      "lastSuccess": 1742701835493
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 20,
-      "success": 20,
-      "last": 1742687580539,
-      "lastSuccess": 1742687580539
-    },
-    "plugins/Kocheng-Tools/case-tools": {
       "total": 2,
       "success": 2,
-      "last": 1742626982438,
-      "lastSuccess": 1742626982438
-    },
-    "plugins/Kocheng-Rpg/other-rpg_register": {
-      "total": 9,
-      "success": 9,
-      "last": 1742664790296,
-      "lastSuccess": 1742664790296
-    },
-    "plugins/Kocheng-Game/case-game": {
-      "total": 4,
-      "success": 4,
-      "last": 1742674669036,
-      "lastSuccess": 1742674669036
+      "last": 1742708905327,
+      "lastSuccess": 1742708905327
     }
   },
   "msgs": {},
