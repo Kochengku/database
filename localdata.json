@@ -32,7 +32,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 316
+      "exp": 320
     }
   },
   "chats": {
@@ -145,6 +145,18 @@
       "expired": 0
     },
     "6283140769876@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
+    },
+    "62895387699993@s.whatsapp.net": {
       "isBanned": false,
       "detect": false,
       "adonly": false,
