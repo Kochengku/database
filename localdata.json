@@ -34,7 +34,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 962
+      "exp": 994
     },
     "60162380764@s.whatsapp.net": {
       "regTime": -1,
@@ -62,37 +62,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 11,
+      "exp": 5,
       "name": "— Anti Romantic"
-    },
-    "6282317410242@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 15,
-      "name": "Muh Aswar"
     }
   },
   "chats": {
@@ -285,10 +256,10 @@
       "lastSuccess": 1742783953782
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 50,
-      "success": 50,
-      "last": 1742812911078,
-      "lastSuccess": 1742812911078
+      "total": 52,
+      "success": 52,
+      "last": 1742819036624,
+      "lastSuccess": 1742819036624
     },
     "plugins/sistem-menu": {
       "total": 10,
