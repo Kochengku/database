@@ -34,9 +34,9 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 994
+      "exp": 1025
     },
-    "60162380764@s.whatsapp.net": {
+    "60134588208@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -62,8 +62,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 5,
-      "name": "— Anti Romantic"
+      "exp": 4,
+      "name": "."
     }
   },
   "chats": {
@@ -246,6 +246,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "60134588208@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -256,10 +268,10 @@
       "lastSuccess": 1742783953782
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 52,
-      "success": 52,
-      "last": 1742819036624,
-      "lastSuccess": 1742819036624
+      "total": 53,
+      "success": 53,
+      "last": 1742825356505,
+      "lastSuccess": 1742825356505
     },
     "plugins/sistem-menu": {
       "total": 10,
@@ -268,10 +280,10 @@
       "lastSuccess": 1742793796273
     },
     "plugins/Kocheng-Tools/case-tools": {
-      "total": 13,
-      "success": 13,
-      "last": 1742800224932,
-      "lastSuccess": 1742800224932
+      "total": 14,
+      "success": 14,
+      "last": 1742825362945,
+      "lastSuccess": 1742825362945
     },
     "plugins/tes": {
       "total": 3,
