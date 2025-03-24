@@ -15,7 +15,9 @@
         "kentukimeme@gmail.com",
         "2",
         "2",
-        "kucingsigma83@gmail.com"
+        "kucingsigma83@gmail.com",
+        "2",
+        "kentukimeme@gmail.com"
       ],
       "daccount": false,
       "daccount2": false,
@@ -32,7 +34,94 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 320
+      "exp": 540
+    },
+    "6281775155057@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "174397",
+      "email": "kentukimeme@gmail.com",
+      "password": "174397",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 28,
+      "stamina": 0,
+      "exp": 47,
+      "name": "Dodolz"
+    },
+    "6287841308086@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 78,
+      "name": "bey^᪲᪲᪲"
+    },
+    "6289635175568@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 1,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 27,
+      "stamina": 0,
+      "exp": 59,
+      "name": "Andini Muzaky Putri"
     }
   },
   "chats": {
@@ -167,32 +256,50 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6289635175568@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
     "plugins/Kocheng-Rpg/other-rpg_register": {
-      "total": 5,
-      "success": 3,
-      "last": 1742716239417,
-      "lastSuccess": 1742716239417
+      "total": 6,
+      "success": 4,
+      "last": 1742783953782,
+      "lastSuccess": 1742783953782
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 14,
-      "success": 14,
-      "last": 1742764521352,
-      "lastSuccess": 1742764521352
+      "total": 25,
+      "success": 25,
+      "last": 1742786599049,
+      "lastSuccess": 1742786599049
     },
     "plugins/sistem-menu": {
-      "total": 3,
-      "success": 3,
-      "last": 1742732697615,
-      "lastSuccess": 1742732697615
+      "total": 7,
+      "success": 7,
+      "last": 1742791812033,
+      "lastSuccess": 1742791812033
     },
     "plugins/Kocheng-Tools/case-tools": {
+      "total": 4,
+      "success": 4,
+      "last": 1742791837562,
+      "lastSuccess": 1742791837562
+    },
+    "plugins/tes": {
       "total": 3,
       "success": 3,
-      "last": 1742739346815,
-      "lastSuccess": 1742739346815
+      "last": 1742784955962,
+      "lastSuccess": 1742784955962
     }
   },
   "msgs": {},
