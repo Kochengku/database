@@ -34,36 +34,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1410
-    },
-    "6283140769876@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 24,
-      "name": "심재윤"
+      "exp": 1458
     },
     "6282317410242@s.whatsapp.net": {
       "regTime": -1,
@@ -91,14 +62,14 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 10,
+      "exp": 23,
       "name": "Muh Aswar"
     },
-    "6287840804144@s.whatsapp.net": {
+    "6282339463843@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
-      "registered": false,
+      "registered": true,
       "membership": false,
       "codemail": "",
       "email": "",
@@ -118,10 +89,10 @@
       "diamond": 0,
       "lastreport": 0,
       "money": 0,
-      "limitchat": 30,
+      "limitchat": 27,
       "stamina": 0,
-      "exp": 16,
-      "name": "c"
+      "exp": 70,
+      "name": "~."
     }
   },
   "chats": {
@@ -328,6 +299,18 @@
       "antiLinkTinggi": false,
       "antiToxic": false,
       "expired": 0
+    },
+    "6282339463843@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
     }
   },
   "stats": {
@@ -344,10 +327,10 @@
       "lastSuccess": 1742913753564
     },
     "plugins/sistem-menu": {
-      "total": 10,
-      "success": 10,
-      "last": 1742793796273,
-      "lastSuccess": 1742793796273
+      "total": 13,
+      "success": 13,
+      "last": 1742919379101,
+      "lastSuccess": 1742919379101
     },
     "plugins/Kocheng-Tools/case-tools": {
       "total": 17,
