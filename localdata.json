@@ -34,7 +34,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1458
+      "exp": 1471
     },
     "6282339463843@s.whatsapp.net": {
       "regTime": -1,
@@ -64,6 +64,34 @@
       "stamina": 0,
       "exp": 70,
       "name": "~."
+    },
+    "6285274910560@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 3
     }
   },
   "chats": {
@@ -292,10 +320,10 @@
       "lastSuccess": 1742783953782
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 83,
-      "success": 83,
-      "last": 1742913753564,
-      "lastSuccess": 1742913753564
+      "total": 84,
+      "success": 84,
+      "last": 1742932045301,
+      "lastSuccess": 1742932045301
     },
     "plugins/sistem-menu": {
       "total": 13,
