@@ -34,9 +34,38 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1351
+      "exp": 1410
     },
-    "60162380764@s.whatsapp.net": {
+    "6283140769876@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 24,
+      "name": "심재윤"
+    },
+    "6282317410242@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -63,9 +92,9 @@
       "limitchat": 30,
       "stamina": 0,
       "exp": 10,
-      "name": "— Anti Romantic"
+      "name": "Muh Aswar"
     },
-    "6283150973633@s.whatsapp.net": {
+    "6287840804144@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -91,36 +120,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 10,
-      "name": "93"
-    },
-    "6285357812073@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 6
+      "exp": 16,
+      "name": "c"
     }
   },
   "chats": {
@@ -337,10 +338,10 @@
       "lastSuccess": 1742783953782
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 79,
-      "success": 79,
-      "last": 1742907051937,
-      "lastSuccess": 1742907051937
+      "total": 83,
+      "success": 83,
+      "last": 1742913753564,
+      "lastSuccess": 1742913753564
     },
     "plugins/sistem-menu": {
       "total": 10,
@@ -349,10 +350,10 @@
       "lastSuccess": 1742793796273
     },
     "plugins/Kocheng-Tools/case-tools": {
-      "total": 15,
-      "success": 15,
-      "last": 1742893135905,
-      "lastSuccess": 1742893135905
+      "total": 17,
+      "success": 17,
+      "last": 1742909796774,
+      "lastSuccess": 1742909796774
     },
     "plugins/tes": {
       "total": 3,
