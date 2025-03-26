@@ -36,7 +36,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1661
+      "exp": 1674
     },
     "6282339463843@s.whatsapp.net": {
       "regTime": -1,
@@ -67,36 +67,7 @@
       "exp": 70,
       "name": "~."
     },
-    "6281775155057@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "742530",
-      "email": "kentukimeme@gmail.com",
-      "password": "742530",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 25,
-      "name": "Dodolz"
-    },
-    "6282317410242@s.whatsapp.net": {
+    "60162380764@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -122,8 +93,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 4,
-      "name": "Muh Aswar"
+      "exp": 6
     }
   },
   "chats": {
@@ -364,10 +334,10 @@
       "lastSuccess": 1742958433384
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 92,
-      "success": 92,
-      "last": 1742962902248,
-      "lastSuccess": 1742962902248
+      "total": 93,
+      "success": 93,
+      "last": 1742971306951,
+      "lastSuccess": 1742971306951
     },
     "plugins/sistem-menu": {
       "total": 13,
