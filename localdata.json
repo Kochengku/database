@@ -17,6 +17,8 @@
         "2",
         "kucingsigma83@gmail.com",
         "2",
+        "kentukimeme@gmail.com",
+        "2",
         "kentukimeme@gmail.com"
       ],
       "daccount": false,
@@ -34,7 +36,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1585
+      "exp": 1661
     },
     "6282339463843@s.whatsapp.net": {
       "regTime": -1,
@@ -65,7 +67,36 @@
       "exp": 70,
       "name": "~."
     },
-    "6285766202936@s.whatsapp.net": {
+    "6281775155057@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "742530",
+      "email": "kentukimeme@gmail.com",
+      "password": "742530",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 25,
+      "name": "Dodolz"
+    },
+    "6282317410242@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -91,7 +122,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2
+      "exp": 4,
+      "name": "Muh Aswar"
     }
   },
   "chats": {
@@ -326,16 +358,16 @@
   },
   "stats": {
     "plugins/Kocheng-Rpg/other-rpg_register": {
-      "total": 6,
-      "success": 4,
-      "last": 1742783953782,
-      "lastSuccess": 1742783953782
+      "total": 7,
+      "success": 5,
+      "last": 1742958433384,
+      "lastSuccess": 1742958433384
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 91,
-      "success": 91,
-      "last": 1742949492583,
-      "lastSuccess": 1742949492583
+      "total": 92,
+      "success": 92,
+      "last": 1742962902248,
+      "lastSuccess": 1742962902248
     },
     "plugins/sistem-menu": {
       "total": 13,
