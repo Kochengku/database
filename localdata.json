@@ -65,7 +65,7 @@
       "exp": 70,
       "name": "~."
     },
-    "6287840804144@s.whatsapp.net": {
+    "6285766202936@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -91,37 +91,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 14,
-      "name": "c"
-    },
-    "6282262978952@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 56,
-      "name": "—jihánzw`artな"
+      "exp": 2
     }
   },
   "chats": {
@@ -330,6 +300,18 @@
       "expired": 0
     },
     "6282339463843@s.whatsapp.net": {
+      "isBanned": false,
+      "detect": false,
+      "adonly": false,
+      "welcome": false,
+      "rpg": false,
+      "antiLinkRendah": false,
+      "antiLinkSedang": false,
+      "antiLinkTinggi": false,
+      "antiToxic": false,
+      "expired": 0
+    },
+    "6285766202936@s.whatsapp.net": {
       "isBanned": false,
       "detect": false,
       "adonly": false,
