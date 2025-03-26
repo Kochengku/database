@@ -34,7 +34,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1507
+      "exp": 1585
     },
     "6282339463843@s.whatsapp.net": {
       "regTime": -1,
@@ -65,7 +65,7 @@
       "exp": 70,
       "name": "~."
     },
-    "6283150973633@s.whatsapp.net": {
+    "6287840804144@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -91,10 +91,10 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 23,
-      "name": "93"
+      "exp": 14,
+      "name": "c"
     },
-    "6283140769876@s.whatsapp.net": {
+    "6282262978952@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -120,8 +120,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 18,
-      "name": "who?"
+      "exp": 56,
+      "name": "—jihánzw`artな"
     }
   },
   "chats": {
@@ -350,10 +350,10 @@
       "lastSuccess": 1742783953782
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 88,
-      "success": 88,
-      "last": 1742938996475,
-      "lastSuccess": 1742938996475
+      "total": 91,
+      "success": 91,
+      "last": 1742949492583,
+      "lastSuccess": 1742949492583
     },
     "plugins/sistem-menu": {
       "total": 13,
@@ -378,6 +378,12 @@
       "success": 3,
       "last": 1742793778492,
       "lastSuccess": 1742793778492
+    },
+    "plugins/Kocheng-Ai/case-ai": {
+      "total": 2,
+      "success": 2,
+      "last": 1742950095291,
+      "lastSuccess": 1742950095291
     }
   },
   "msgs": {},
