@@ -36,7 +36,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2478
+      "exp": 2494
     },
     "6282339463843@s.whatsapp.net": {
       "regTime": -1,
@@ -67,7 +67,7 @@
       "exp": 70,
       "name": "~."
     },
-    "6282317410242@s.whatsapp.net": {
+    "6283176331401@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -93,8 +93,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 25,
-      "name": "Muh Aswar"
+      "exp": 10
     }
   },
   "chats": {
@@ -359,10 +358,10 @@
       "lastSuccess": 1742958433384
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 122,
-      "success": 122,
-      "last": 1743036039626,
-      "lastSuccess": 1743036039626
+      "total": 123,
+      "success": 123,
+      "last": 1743040381004,
+      "lastSuccess": 1743040381004
     },
     "plugins/sistem-menu": {
       "total": 13,
