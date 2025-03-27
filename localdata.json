@@ -36,7 +36,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2526
+      "exp": 2575
     },
     "6282339463843@s.whatsapp.net": {
       "regTime": -1,
@@ -67,6 +67,35 @@
       "exp": 70,
       "name": "~."
     },
+    "6287840804144@s.whatsapp.net": {
+      "regTime": -1,
+      "notregis": 0,
+      "membershipTime": 0,
+      "registered": false,
+      "membership": false,
+      "codemail": "",
+      "email": "",
+      "password": "",
+      "listfeature": "",
+      "datamail": "",
+      "daccount": false,
+      "daccount2": false,
+      "statustrx": "",
+      "idtrx": "",
+      "jenisbarang": "",
+      "urltrx": "",
+      "masasewa": 0,
+      "lasttrx": 0,
+      "hargabarang": 0,
+      "featureerror": 0,
+      "diamond": 0,
+      "lastreport": 0,
+      "money": 0,
+      "limitchat": 30,
+      "stamina": 0,
+      "exp": 15,
+      "name": "c"
+    },
     "60162380764@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
@@ -93,35 +122,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 1
-    },
-    "60134588208@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 7
+      "exp": 14,
+      "name": "— Anti Romantic"
     }
   },
   "chats": {
@@ -386,10 +388,10 @@
       "lastSuccess": 1742958433384
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 125,
-      "success": 125,
-      "last": 1743059806027,
-      "lastSuccess": 1743059806027
+      "total": 128,
+      "success": 128,
+      "last": 1743070857619,
+      "lastSuccess": 1743070857619
     },
     "plugins/sistem-menu": {
       "total": 13,
