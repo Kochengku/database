@@ -36,7 +36,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 2494
+      "exp": 2497
     },
     "6282339463843@s.whatsapp.net": {
       "regTime": -1,
@@ -67,7 +67,7 @@
       "exp": 70,
       "name": "~."
     },
-    "6283176331401@s.whatsapp.net": {
+    "6283140769876@s.whatsapp.net": {
       "regTime": -1,
       "notregis": 0,
       "membershipTime": 0,
@@ -93,7 +93,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 10
+      "exp": 1
     }
   },
   "chats": {
@@ -370,10 +370,10 @@
       "lastSuccess": 1742919379101
     },
     "plugins/Kocheng-Tools/case-tools": {
-      "total": 24,
-      "success": 24,
-      "last": 1742982106715,
-      "lastSuccess": 1742982106715
+      "total": 25,
+      "success": 25,
+      "last": 1743045528985,
+      "lastSuccess": 1743045528985
     },
     "plugins/tes": {
       "total": 3,
