@@ -36,7 +36,7 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 3139
+      "exp": 3472
     },
     "6282339463843@s.whatsapp.net": {
       "regTime": -1,
@@ -93,65 +93,8 @@
       "money": 0,
       "limitchat": 30,
       "stamina": 0,
-      "exp": 159,
+      "exp": 166,
       "name": "a"
-    },
-    "60134588208@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 17,
-      "name": "."
-    },
-    "6283127564107@s.whatsapp.net": {
-      "regTime": -1,
-      "notregis": 0,
-      "membershipTime": 0,
-      "registered": false,
-      "membership": false,
-      "codemail": "",
-      "email": "",
-      "password": "",
-      "listfeature": "",
-      "datamail": "",
-      "daccount": false,
-      "daccount2": false,
-      "statustrx": "",
-      "idtrx": "",
-      "jenisbarang": "",
-      "urltrx": "",
-      "masasewa": 0,
-      "lasttrx": 0,
-      "hargabarang": 0,
-      "featureerror": 0,
-      "diamond": 0,
-      "lastreport": 0,
-      "money": 0,
-      "limitchat": 30,
-      "stamina": 0,
-      "exp": 9
     }
   },
   "chats": {
@@ -440,10 +383,10 @@
       "lastSuccess": 1742958433384
     },
     "plugins/Kocheng-Downloader/case-downloader": {
-      "total": 177,
-      "success": 177,
-      "last": 1743092901479,
-      "lastSuccess": 1743092901479
+      "total": 203,
+      "success": 203,
+      "last": 1743100021171,
+      "lastSuccess": 1743100021171
     },
     "plugins/sistem-menu": {
       "total": 13,
